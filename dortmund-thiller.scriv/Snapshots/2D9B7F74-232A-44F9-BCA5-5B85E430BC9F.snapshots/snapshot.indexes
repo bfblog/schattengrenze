@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="2D9B7F74-232A-44F9-BCA5-5B85E430BC9F">
-    <Snapshot Date="2024-10-14 00:17:34 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 12.3 - &quot;Zweifel und Ängste&quot;
-Strang: Nebenhandlung
-Personen: Yasmin, Lena
-Beschreibung: Yasmin und Lena diskutieren ihre wachsenden Bedenken hinsichtlich der Gefahren des Falls. Yasmin spricht über ihre eigenen Ängste und reflektiert über vergangene Erfahrungen mit Bedrohungen.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:18 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 12.3 - &quot;Zweifel und Ängste&quot;
+        <Text>Szene 12.3 - "Zweifel und Ängste"
 Tobias, Yasmin und Rocco standen vor dem hohen Bauzaun, der das Gelände des Bauprojekts umschloss. Die Geräusche der Stadt vermischten sich mit dem Hämmern und Bohren der Arbeiter. Ein Baukran ragte hoch über ihnen auf, und Bauschutt lag verstreut entlang des Zauns. Das Projekt, das Markus verheimlichen wollte, war groß und anscheinend wichtig – aber was machte es so geheim?
 „Laut den Bauplänen, die ich gefunden habe, handelt es sich hier um ein Hochhaus, das als Luxuswohnkomplex gedacht ist,“ sagte Yasmin, während sie auf ihr Tablet schaute. „Aber es gibt ein paar Teile der Pläne, die nicht im öffentlichen Register verzeichnet sind.“
 „Geheime Abschnitte?“ fragte Rocco und sah neugierig auf das Tablet.
@@ -46,5 +39,12 @@ Tobias dachte nach. „Es könnte sein, dass Markus in eine Verschwörung gerate
 „Das ist das, was wir als Nächstes herausfinden müssen,“ sagte Tobias entschlossen. „Wir sollten herausfinden, wer hinter diesen Unternehmen steht und ob es jemand gibt, der von Markus‘ Verschwinden profitiert.“
 Die Atmosphäre im Büro war angespannt, während das Team die neuen Hinweise verarbeitete. Der Fall wurde immer komplizierter, und die Gefahr wuchs mit jedem Schritt, den sie näher an die Wahrheit kamen.
 Doch sie waren entschlossen, den Fall zu lösen – koste es, was es wolle.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:34 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 12.3 - "Zweifel und Ängste"
+	•	Strang: Nebenhandlung
+	•	Personen: Yasmin, Lena
+	•	Beschreibung: Yasmin und Lena diskutieren ihre wachsenden Bedenken hinsichtlich der Gefahren des Falls. Yasmin spricht über ihre eigenen Ängste und reflektiert über vergangene Erfahrungen mit Bedrohungen.</Text>
     </Snapshot>
 </SnapshotIndexes>

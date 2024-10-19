@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="5583E092-3054-4FCE-9BDC-22DC15E269BA">
-    <Snapshot Date="2024-10-14 00:17:32 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 8.3 - &quot;Verborgene Absichten&quot;
-Strang: Nebenhandlung
-Personen: Yasmin, Tobias
-Beschreibung: Yasmin und Tobias besprechen die aktuellen Entwicklungen und ihre Zweifel am Verdächtigen. Yasmin teilt ihre Bedenken und ihre Vorsicht, basierend auf eigenen Erfahrungen, was Tobias dazu bringt, ihre Einschätzungen mehr zu berücksichtigen.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:15 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 8.3 - &quot;Verborgene Absichten&quot;
+        <Text>Szene 8.3 - "Verborgene Absichten"
 Tobias saß in seinem Büro, die Kamera vor sich auf dem Tisch und die aufgenommenen Dokumente als digitale Dateien auf seinem Laptop geöffnet. Yasmin und Rocco saßen neben ihm, beide sahen erschöpft, aber entschlossen aus. Die Nacht war lang und gefährlich gewesen, doch die gewonnenen Beweise und Dokumente gaben ihnen die Gewissheit, dass sie endlich eine Chance hatten, Mertens Netzwerk zu zerschlagen.
 „Die Dokumente zeigen Verbindungen, die weit über das hinausgehen, was wir dachten,“ begann Tobias und scrollte durch die Aufnahmen. „Hier sind Kontonummern, Zahlungspläne, Namen und Adressen – alles organisiert, als ob Merten ein ganzes System hinter der Fassade aufgebaut hat.“
 Yasmin nickte und zeigte auf einen der Ordner auf dem Bildschirm. „Schau hier – das sind Details über Zahlungen an verschiedene Unternehmen, die über Offshore-Konten laufen. Es scheint, als ob er illegale Finanztransaktionen im großen Stil organisiert hat. Wenn wir das veröffentlichen, haben wir ihn.“
@@ -33,5 +26,12 @@ Ein letztes Mal gingen sie ihre Positionen durch, überprüften die Ausrüstung 
 „Das ist unsere Chance, Merten und sein Netzwerk endlich zu Fall zu bringen,“ sagte Tobias leise, aber eindringlich. „Wir sind so weit gekommen – es gibt kein Zurück mehr.“
 Yasmin und Rocco nickten und packten ihre Ausrüstung zusammen. Die Stunden des Wartens und der Vorbereitung hatten sie erschöpft, doch die Aussicht auf den Erfolg gab ihnen neue Energie. Der Plan stand, und sie wussten, dass die kommenden Stunden entscheidend sein würden.
 „Also los,“ sagte Tobias und führte das Team nach draußen in den Morgen, wo die ersten Sonnenstrahlen den Himmel erhellten. Der Plan zur Enttarnung war im Gang – und Merten hatte keine Ahnung, dass er in die Falle lief.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:32 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 8.3 - "Verborgene Absichten"
+	•	Strang: Nebenhandlung
+	•	Personen: Yasmin, Tobias
+	•	Beschreibung: Yasmin und Tobias besprechen die aktuellen Entwicklungen und ihre Zweifel am Verdächtigen. Yasmin teilt ihre Bedenken und ihre Vorsicht, basierend auf eigenen Erfahrungen, was Tobias dazu bringt, ihre Einschätzungen mehr zu berücksichtigen.</Text>
     </Snapshot>
 </SnapshotIndexes>

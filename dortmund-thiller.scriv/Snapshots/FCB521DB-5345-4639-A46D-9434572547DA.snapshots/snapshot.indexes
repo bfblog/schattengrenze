@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="FCB521DB-5345-4639-A46D-9434572547DA">
-    <Snapshot Date="2024-10-14 00:17:31 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 5.3 - &quot;Spannungen im Team&quot;
-Strang: Nebenhandlung
-Personen: Tobias, Yasmin, Lena
-Beschreibung: Tobias informiert das Team über die neuesten Erkenntnisse. Yasmin und Lena äußern Bedenken über die Sicherheit des Falls, während Tobias sie zur Vorsicht mahnt und das Team motivieren muss.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:12 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 5.3 - &quot;Spannungen im Team&quot;
+        <Text>Szene 5.3 - "Spannungen im Team"
 Yasmin saß angespannt vor ihrem Laptop, das kühle, flackernde Licht des Bildschirms tauchte ihre Gesichter in blasse Schatten. Der Raum war still, bis auf das leise Klackern der Tasten und das Summen des Ventilators. Tobias und Rocco standen hinter ihr und beobachteten jede Bewegung, während die Luft im Büro zunehmend von einer nervösen Spannung erfüllt wurde.
 „Ich habe Zugriff auf die Kommunikationslogs“, flüsterte Yasmin schließlich, während ihre Augen über die Bildschirmzeilen wanderten. „Hier gibt es Einträge über Treffen, Anrufe, E-Mails… Aber ich gehe langsam vor. Ein falscher Klick und sie könnten merken, dass wir hier sind.“
 Tobias nickte und spürte, wie sein Puls raste, während er über ihre Schultern sah. Jede Information könnte ihre einzige Chance sein – und gleichzeitig das letzte Puzzlestück, das sie verraten könnte.
@@ -34,5 +27,12 @@ Yasmin nickte und wandte sich wieder dem Bildschirm zu, während sie die Drohne 
 Die Stille im Raum war drückend, nur unterbrochen von Yasmins leisen Tastenanschlägen. Tobias’ Gedanken waren in Bewegung, ein unaufhörliches Kreisen um die Gefahren und die möglichen Konsequenzen ihres Plans. Sie standen an der Schwelle zu einer Wahrheit, die größer war, als er je erwartet hätte. Aber ein falscher Schritt, und diese Wahrheit würde sie verschlingen.
 Er sah die beiden an, die mit Entschlossenheit und Konzentration arbeiteten, und fühlte die Verantwortung schwer auf seinen Schultern lasten. Doch in diesem Moment war die Entschlossenheit in ihren Augen stärker als jede Angst.
 „Also gut,“ sagte er leise, „wir machen das.“</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:31 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 5.3 - "Spannungen im Team"
+	•	Strang: Nebenhandlung
+	•	Personen: Tobias, Yasmin, Lena
+	•	Beschreibung: Tobias informiert das Team über die neuesten Erkenntnisse. Yasmin und Lena äußern Bedenken über die Sicherheit des Falls, während Tobias sie zur Vorsicht mahnt und das Team motivieren muss.</Text>
     </Snapshot>
 </SnapshotIndexes>

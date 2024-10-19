@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="7A4DF994-18EC-4788-AD89-B7AC866E5645">
-    <Snapshot Date="2024-10-14 00:17:35 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 15.1 - &quot;Konfrontation mit einer Schlüsselfigur&quot;
-Strang: Haupthandlung
-Personen: Tobias, Verdächtiger
-Beschreibung: Tobias und das Team konfrontieren einen der Hauptverdächtigen in Hagemanns Netzwerk. Der Verdächtige gibt ausweichende Antworten und versucht, die Ermittler abzulenken, was Tobias misstrauisch macht.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:21 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 15.1 - &quot;Konfrontation mit einer Schlüsselfigur&quot;
+        <Text>Szene 15.1 - "Konfrontation mit einer Schlüsselfigur"
 Die Morgendämmerung warf ein schwaches Licht in das Büro, während das Team die ersten Nachrichten und Reaktionen auf die Veröffentlichung des Artikels verfolgte. Der Artikel über NEXUS und das geheime Projekt hatte Wellen geschlagen, doch die Gegenreaktionen waren schneller und brutaler, als sie erwartet hatten.
 „Es gibt erste Versuche, den Artikel zu widerlegen,“ berichtete Yasmin und zeigte auf eine Meldung, die soeben auf ihrem Bildschirm aufgetaucht war. „Eine angebliche 'interne Quelle' bestreitet alle Anschuldigungen und behauptet, die Informationen seien aus dem Zusammenhang gerissen.“
 „Das ist eindeutig eine Strategie von Weber,“ murmelte Tobias. „Er hat Kontakt zu den Medien und versucht, unsere Beweise als Fälschungen darzustellen.“
@@ -44,5 +37,12 @@ Zurück im Büro ließ das Team die Dokumente, die sie gefunden hatten, auf sich
 Yasmin sah Tobias fest an. „Wir müssen mit der Veröffentlichung strategisch vorgehen. Wenn wir sie vollständig freigeben, wird das Netzwerk alles daransetzen, uns zu stoppen. Wir brauchen die richtige Unterstützung und eine sichere Plattform.“
 „Verstanden,“ erwiderte Tobias. „Ich werde mich mit einem bekannten Journalisten in Verbindung setzen, der uns helfen kann, die Beweise global zu verbreiten.“
 Das Team war bereit für den nächsten Schritt. Mit diesen letzten Beweisen hatten sie die Chance, NEXUS und seine Unterstützer ans Licht zu bringen – doch das Risiko war enorm. Ihnen war klar, dass jeder Fehler ihre letzte Chance auf Gerechtigkeit zunichtemachen könnte.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:35 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 15.1 - "Konfrontation mit einer Schlüsselfigur"
+	•	Strang: Haupthandlung
+	•	Personen: Tobias, Verdächtiger
+	•	Beschreibung: Tobias und das Team konfrontieren einen der Hauptverdächtigen in Hagemanns Netzwerk. Der Verdächtige gibt ausweichende Antworten und versucht, die Ermittler abzulenken, was Tobias misstrauisch macht.</Text>
     </Snapshot>
 </SnapshotIndexes>

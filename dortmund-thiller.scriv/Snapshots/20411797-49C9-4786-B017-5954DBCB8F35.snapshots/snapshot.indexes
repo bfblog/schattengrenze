@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="20411797-49C9-4786-B017-5954DBCB8F35">
-    <Snapshot Date="2024-10-14 00:17:34 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 12.1 - &quot;Verborgene Dokumente&quot;
-Strang: Haupthandlung
-Personen: Lena, Kevin
-Beschreibung: Lena entdeckt versteckte Dokumente in Hagemanns Nachlass, die illegale Geschäfte und Verbindungen aufdecken. Gemeinsam mit Kevin analysiert sie die brisanten Details.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:18 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 12.1 - &quot;Verborgene Dokumente&quot;
+        <Text>Szene 12.1 - "Verborgene Dokumente"
 Tobias saß an seinem Schreibtisch und ließ die letzten Tage noch einmal Revue passieren. Der Fall um Anna hatte viel von ihnen gefordert, und das Gefühl der Erschöpfung saß noch immer tief in seinen Knochen. Yasmin war neben ihm mit einer Tasse Tee beschäftigt und ließ ihren Blick entspannt durch das Büro schweifen, während Rocco sich auf einen Stuhl gegenüber von Tobias setzte und sich zufrieden zurücklehnte.
 „Ich kann es kaum glauben, dass wir uns endlich mal eine Pause gönnen können,“ murmelte Yasmin und lächelte entspannt. „Nach all dem Chaos der letzten Wochen fühlt sich das fast unwirklich an.“
 Tobias nickte. „Es ist gut, dass wir Anna helfen konnten. Aber ja, ein wenig Ruhe tut uns allen gut.“
@@ -49,5 +42,12 @@ Nach dem Gespräch sah das Team zu, wie sie das Büro verließ, und blieb für e
 Tobias nickte, seine Gedanken rasten. Ein verschwundener Bruder, Bedrohungen und ein großes Immobilienprojekt – das klang nach einem brisanten Mix. Doch sie waren bereit, der Sache auf den Grund zu gehen.
 „Unser erster Schritt ist sein Bürogebäude,“ entschied Tobias. „Vielleicht finden wir dort Hinweise oder Überwachungskameraaufnahmen, die uns sagen, wohin er zuletzt gegangen ist.“
 Das Team machte sich bereit, und die leise Spannung und Neugier, die sie verspürten, war wie ein vertrautes Ziehen in der Magengegend. Ein neuer Fall wartete, und sie waren fest entschlossen, die Wahrheit ans Licht zu bringen.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:34 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 12.1 - "Verborgene Dokumente"
+	•	Strang: Haupthandlung
+	•	Personen: Lena, Kevin
+	•	Beschreibung: Lena entdeckt versteckte Dokumente in Hagemanns Nachlass, die illegale Geschäfte und Verbindungen aufdecken. Gemeinsam mit Kevin analysiert sie die brisanten Details.</Text>
     </Snapshot>
 </SnapshotIndexes>

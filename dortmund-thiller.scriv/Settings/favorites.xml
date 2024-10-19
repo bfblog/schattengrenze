@@ -2,16 +2,13 @@
 <Favorites Version="1.0">
     <MoveTo>
         <Recent>
+            <UUID Date="2024-10-19 18:53:11 +0200">DDF3908F-638D-4B9D-8A99-E49CA8413710</UUID>
             <UUID Date="2024-10-13 09:20:02 +0200">E197D9F8-1E4A-4CC1-B6BD-4C303A3CDC0A</UUID>
-            <UUID Date="2024-10-13 22:53:26 +0200">A04DE8D5-0190-4E28-AF7F-117388D99102</UUID>
         </Recent>
         <Popular>
-            <UUID Used="2" Date="2024-10-13 22:53:26 +0200">A04DE8D5-0190-4E28-AF7F-117388D99102</UUID>
-            <UUID Used="2" Date="2024-10-13 09:20:02 +0200">E197D9F8-1E4A-4CC1-B6BD-4C303A3CDC0A</UUID>
+            <UUID Used="1" Date="2024-10-19 18:53:11 +0200">DDF3908F-638D-4B9D-8A99-E49CA8413710</UUID>
+            <UUID Used="1" Date="2024-10-13 22:53:26 +0200">A04DE8D5-0190-4E28-AF7F-117388D99102</UUID>
+            <UUID Used="1" Date="2024-10-13 09:20:02 +0200">E197D9F8-1E4A-4CC1-B6BD-4C303A3CDC0A</UUID>
         </Popular>
     </MoveTo>
-    <Append>
-        <Recent/>
-        <Popular/>
-    </Append>
 </Favorites>

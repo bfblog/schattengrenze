@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="BCD01398-C230-44E5-8DA2-BA53C416405D">
-    <Snapshot Date="2024-10-14 00:17:35 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 14.2 - &quot;Sorgen und Schutzmaßnahmen&quot;
-Strang: Nebenhandlung
-Personen: Tobias, seine Familie
-Beschreibung: Tobias bespricht mit seiner Familie die Sicherheitsrisiken und macht sich Sorgen um ihre Sicherheit. Die persönliche Bedrohung bringt ihn zum Nachdenken über die Auswirkungen seiner Arbeit auf sein Privatleben.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:20 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 14.2 - &quot;Sorgen und Schutzmaßnahmen&quot;
+        <Text>Szene 14.2 - "Sorgen und Schutzmaßnahmen"
 Das Team hielt am Rand der Waldstraße und beobachtete den Landgasthof aus der Dunkelheit heraus. Die einzigen Lichter, die zu sehen waren, stammten von den wenigen Autos, die auf dem Parkplatz standen, und dem schwachen Schimmer aus den Fenstern des Gasthauses. Es war der perfekte Ort für ein geheimes Treffen – abgeschieden und fernab neugieriger Augen.
 „Das ist definitiv der Ort,“ flüsterte Yasmin und ließ den Blick über das Gelände schweifen. „Ich habe die Autokennzeichen geprüft. Mindestens zwei davon sind auf Briefkastenfirmen registriert, die mit NEXUS verbunden sind.“
 „Lassalle ist wahrscheinlich da drin,“ murmelte Rocco. „Er wird bestimmt gut geschützt sein. Wir müssen vorsichtig sein und sicherstellen, dass wir nicht entdeckt werden.“
@@ -47,5 +40,12 @@ Tobias sah seine Kollegen mit festem Blick an. „Das bedeutet, dass wir unsere 
 Yasmin nickte, ihre Finger schwebten über der Tastatur. „Ich werde alle Daten sichern und anonymisierte Kopien vorbereiten. Wir brauchen einen Notfallplan, falls wir selbst zur Zielscheibe werden.“
 Das Team war sich einig, dass sie auf einem gefährlichen Spielbrett agierten. Doch die Entschlossenheit, die Wahrheit ans Licht zu bringen, war ungebrochen. Sie wussten, dass sie jetzt mehr denn je vorsichtig sein mussten – doch sie waren bereit, alles zu riskieren, um NEXUS aufzuhalten.
 </Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:35 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 14.2 - "Sorgen und Schutzmaßnahmen"
+	•	Strang: Nebenhandlung
+	•	Personen: Tobias, seine Familie
+	•	Beschreibung: Tobias bespricht mit seiner Familie die Sicherheitsrisiken und macht sich Sorgen um ihre Sicherheit. Die persönliche Bedrohung bringt ihn zum Nachdenken über die Auswirkungen seiner Arbeit auf sein Privatleben.</Text>
     </Snapshot>
 </SnapshotIndexes>

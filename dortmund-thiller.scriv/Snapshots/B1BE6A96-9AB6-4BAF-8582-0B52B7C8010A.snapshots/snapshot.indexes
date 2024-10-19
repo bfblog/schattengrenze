@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="B1BE6A96-9AB6-4BAF-8582-0B52B7C8010A">
-    <Snapshot Date="2024-10-14 00:17:32 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 8.2 - &quot;Verdeckte Beobachtung&quot;
-Strang: Haupthandlung
-Personen: Tobias, Lena, Kevin
-Beschreibung: Das Team setzt die Observation des Verdächtigen fort und entdeckt eine verdächtige Übergabe an einem Treffpunkt. Diese Entdeckung bestätigt, dass der Verdächtige tiefer in kriminelle Machenschaften verstrickt ist.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:15 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 8.2 - &quot;Verdeckte Beobachtung&quot;
+        <Text>Szene 8.2 - "Verdeckte Beobachtung"
 Tobias atmete tief durch, während er das Lagerhaus im Blick behielt. Das gedämpfte Licht aus einem Fenster im oberen Stockwerk ließ die Silhouetten der Männer erkennen, die durch die Räume schritten und Kisten hin und her trugen. Es war die perfekte Gelegenheit, mehr über Mertens Operation zu erfahren – wenn alles nach Plan lief.
 „Yasmin, wie sieht es drinnen aus?“ fragte Tobias leise ins Headset.
 Yasmin saß im Lieferwagen, der auf der gegenüberliegenden Straßenseite geparkt war, und betrachtete das Bild ihrer Drohnenkamera, die sie am Rand des Lagerhausdachs platziert hatte. „Sie bewegen sich um das Erdgeschoss herum. Vier Männer. Zwei stehen Wache am Eingang.“
@@ -46,5 +39,12 @@ Die Erleichterung im Wagen war fast greifbar, doch die Anspannung ließ sie nich
 Yasmin nickte, ihre Hände immer noch fest am Lenkrad. „Aber wir müssen jetzt extrem vorsichtig sein. Sie werden nicht aufgeben, solange wir so nah dran sind.“
 „Genau,“ fügte Rocco hinzu. „Jetzt heißt es, die Informationen sicher zu analysieren und zuzuschlagen, bevor sie ihre Spuren verwischen können.“
 Die Nacht war wieder still, doch das Team wusste, dass die Entscheidungsschlacht bevorstand. Mit einem neuen Plan und dem Wissen, dass sie nur noch einen Schritt vom Ziel entfernt waren, machten sie sich auf den Weg zurück ins Büro. Die Falle für Merten war vorbereitet – jetzt war es Zeit, sie endgültig zuschnappen zu lassen.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:32 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 8.2 - "Verdeckte Beobachtung"
+	•	Strang: Haupthandlung
+	•	Personen: Tobias, Lena, Kevin
+	•	Beschreibung: Das Team setzt die Observation des Verdächtigen fort und entdeckt eine verdächtige Übergabe an einem Treffpunkt. Diese Entdeckung bestätigt, dass der Verdächtige tiefer in kriminelle Machenschaften verstrickt ist.</Text>
     </Snapshot>
 </SnapshotIndexes>

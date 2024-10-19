@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="46F88C7A-472B-4F95-B790-8FF86A9F886B">
-    <Snapshot Date="2024-10-14 00:17:32 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 7.3 - &quot;Ein entscheidender Hinweis&quot;
-Strang: Haupthandlung
-Personen: Tobias, das gesamte Team
-Beschreibung: Das Team bespricht die neu entdeckten Dokumente und erkennt, dass Hagemanns Kontakte weitreichender sind als angenommen. Dieser Durchbruch bestätigt ihre Vermutung, dass er in größere illegale Netzwerke involviert war.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:14 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 7.3 - &quot;Ein entscheidender Hinweis&quot;
+        <Text>Szene 7.3 - "Ein entscheidender Hinweis"
 Tobias saß mit konzentrierter Miene am Schreibtisch, die gesammelten Aufnahmen und Notizen aus der Nacht vor sich ausgebreitet. Yasmin hatte die Überwachungsdaten von der Übergabe durchgesehen und analysierte sie auf ihrem Laptop, während Rocco Karten und Routenpläne der Stadt durchblätterte.
 „Die Übergabe war definitiv geplant und hatte eine klare Struktur“, begann Tobias und strich mit einem Finger über die Bilder, die die Männer und den Lieferwagen zeigten. „Sie haben präzise und effizient gearbeitet, als ob sie das schon unzählige Male gemacht hätten. Merten führt das Ganze wie eine gut geölte Maschine.“
 „Ja,“ stimmte Yasmin zu und vergrößerte eine Aufnahme des Lieferwagens. „Hier sieht man es deutlicher – der Fahrer schien routiniert, wie jemand, der eine klare Anweisung befolgt. Es war kein improvisiertes Treffen, sondern eine organisierte Operation.“
@@ -33,5 +26,12 @@ Tobias nickte, und ein Hauch eines Lächelns huschte über sein Gesicht. „Gut.
 Die Dämmerung wich langsam dem Morgen, doch die Anspannung im Raum blieb. Jeder von ihnen wusste, dass die bevorstehende Aktion keine Fehler verzeihen würde. Doch die Entschlossenheit, Merten zu überführen und sein Netzwerk aufzudecken, trieb sie an. Tobias sah seine beiden Partner an, ein stummes Einverständnis lag in ihren Blicken.
 „Also los,“ sagte er leise, doch seine Stimme trug die Entschlossenheit einer längst überfälligen Entscheidung. „Wir haben die Fährte aufgenommen, und wir werden Merten keine Gelegenheit geben, zu entkommen.“
 Yasmin und Rocco nickten entschlossen, und mit einem letzten prüfenden Blick auf die gesammelten Informationen machten sie sich daran, ihre Aufgaben zu erfüllen. Die kommende Zeit würde entscheidend sein, und die Bedrohung, die über ihnen schwebte, war realer denn je. Doch sie waren bereit – und Tobias wusste, dass sie sich diesem Netzwerk bald bis ins Innerste nähern würden.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:32 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 7.3 - "Ein entscheidender Hinweis"
+	•	Strang: Haupthandlung
+	•	Personen: Tobias, das gesamte Team
+	•	Beschreibung: Das Team bespricht die neu entdeckten Dokumente und erkennt, dass Hagemanns Kontakte weitreichender sind als angenommen. Dieser Durchbruch bestätigt ihre Vermutung, dass er in größere illegale Netzwerke involviert war.</Text>
     </Snapshot>
 </SnapshotIndexes>

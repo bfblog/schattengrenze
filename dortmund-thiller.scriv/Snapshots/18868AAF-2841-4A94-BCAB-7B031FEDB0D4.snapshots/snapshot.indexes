@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="18868AAF-2841-4A94-BCAB-7B031FEDB0D4">
-    <Snapshot Date="2024-10-14 00:17:32 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 9.2 - &quot;Beobachtungen im Verborgenen&quot;
-Strang: Haupthandlung
-Personen: Tobias, Lena
-Beschreibung: Tobias und Lena beobachten den Verdächtigen aus der Ferne und erkennen, dass weitere Beteiligte involviert sind. Die Entdeckung stellt das Team vor neue Herausforderungen.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:16 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 9.2 - &quot;Beobachtungen im Verborgenen&quot;
+        <Text>Szene 9.2 - "Beobachtungen im Verborgenen"
 Das Café war erfüllt vom sanften Klirren von Tassen und dem gedämpften Murmeln der Gäste. Tobias saß am Fenster, eine Tasse Kaffee vor sich, und blickte nachdenklich auf die belebte Straße draußen. Yasmin und Rocco saßen ihm gegenüber, beide ebenfalls in Gedanken versunken.
 „Es fühlt sich seltsam an, dass es vorbei ist,“ sagte Yasmin schließlich und hob den Blick zu Tobias. „Monatelang haben wir daran gearbeitet, alles zusammengetragen und immer wieder Pläne geschmiedet. Und jetzt… haben wir es geschafft.“
 Tobias lächelte leicht und nickte. „Ja. Es ist wirklich vorbei.“ Seine Worte klangen beinahe unwirklich, als ob er selbst erst realisieren musste, dass die monatelange Jagd auf Merten tatsächlich ein Ende gefunden hatte.
@@ -29,5 +22,12 @@ Das Team lachte, und die Anspannung der letzten Monate fiel für einen Moment vo
 „Dann sollten wir wohl anfangen, Pläne zu schmieden,“ sagte Tobias und hob seine Tasse. „Auf uns, auf das, was wir erreicht haben – und auf das, was noch vor uns liegt.“
 Yasmin und Rocco hoben ihre Tassen und prosteten ihm zu. „Auf uns,“ wiederholten sie, und für einen Augenblick lag nur das Lächeln des Triumphes und der Hoffnung in ihren Augen.
 Der Fall Merten war abgeschlossen, doch ihre Geschichte war noch lange nicht vorbei. Gemeinsam würden sie neue Herausforderungen meistern, neue Fälle lösen – und sie wussten, dass sie bereit waren, was auch immer die Zukunft bringen mochte.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:32 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 9.2 - "Beobachtungen im Verborgenen"
+	•	Strang: Haupthandlung
+	•	Personen: Tobias, Lena
+	•	Beschreibung: Tobias und Lena beobachten den Verdächtigen aus der Ferne und erkennen, dass weitere Beteiligte involviert sind. Die Entdeckung stellt das Team vor neue Herausforderungen.</Text>
     </Snapshot>
 </SnapshotIndexes>
