@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FolderSyncSettings Version="1.0">
+    <syncsOnlyDocumentsInCollection Type="Bool">No</syncsOnlyDocumentsInCollection>
+    <takesSnapshots Type="Bool">Yes</takesSnapshots>
+    <draftPlainTextExtension Type="String">txt</draftPlainTextExtension>
+    <collectionIdent Type="String"></collectionIdent>
+    <draftFileFormat Type="Int">1</draftFileFormat>
+    <plainTextAddsParagraphPadding Type="Bool">Yes</plainTextAddsParagraphPadding>
+    <folderPath Type="String">C:/Users/Markus/OneDrive/Dokumente/Markus/2024/dortmund-thiller-sync</folderPath>
+    <importShowsContainersOnly Type="Bool">Yes</importShowsContainersOnly>
+    <usesFileNumbering Type="Bool">Yes</usesFileNumbering>
+    <importDestinationUUID Type="String">FDC07FAF-4A50-4639-A828-7688472562CF</importDestinationUUID>
+    <automaticallyCheckForChanges Type="Bool">Yes</automaticallyCheckForChanges>
+    <otherPlainTextExtension Type="String">txt</otherPlainTextExtension>
+    <deletedDocIDs Type="Array"/>
+    <otherFileFormat Type="Int">1</otherFileFormat>
+    <syncsDraftFolder Type="Bool">Yes</syncsDraftFolder>
+    <syncsOtherTextFiles Type="Bool">Yes</syncsOtherTextFiles>
+</FolderSyncSettings>
