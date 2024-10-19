@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="77E1ED08-E531-4F68-B414-D25E8956FB16" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="MacBook-Air-von-Markus" Author="" Modified="2024-10-19 08:12:08 +0200" ModID="53CECC02-DEF5-427F-A9BF-7AEA96C0FA40">
+    <Binder>
+        <BinderItem UUID="3C9992D7-B6B4-444E-9EC3-A95CF369F501" Type="DraftFolder" Created="2024-10-17 19:25:32 +0200" Modified="2024-10-17 19:25:32 +0200">
+            <Title>Entwurf</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="910975E1-BC6D-493F-A2D8-F63226386CD8" Type="Text" Created="2024-10-17 19:25:32 +0200" Modified="2024-10-17 19:25:32 +0200">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="2F8BDB13-A839-4DCF-8A6A-297291015A02" Type="ResearchFolder" Created="2024-10-17 19:25:32 +0200" Modified="2024-10-17 19:25:32 +0200">
+            <Title>Recherche</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="D399E991-2ACF-48E6-AA1D-F596C8AEBF62" Type="TrashFolder" Created="2024-10-17 19:25:32 +0200" Modified="2024-10-17 19:25:32 +0200">
+            <Title>Papierkorb</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="48195B85-B282-4A14-ADFB-CD766F63A117" Color="1.0 1.0 1.0">
+            <Title>Mappe</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="95D587C5-12A8-48C3-8D10-B578143EE765" Color="0.922173 0.818612 0.999627">
+            <Title>Suchergebnisse</Title>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">?</SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="BDE72778-489A-44BA-82A3-C25785B3E07A">Überschrift</Type>
+            <Type ID="54FE2EF0-A13F-4898-BB0C-4CD22210FB96">Unterrubrik</Type>
+            <Type ID="AC045341-B47A-4946-9A50-E6DFA5ECB0F8">Abschnitt</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>BDE72778-489A-44BA-82A3-C25785B3E07A</Type>
+            </Folders>
+            <Containers>
+                <Type>AC045341-B47A-4946-9A50-E6DFA5ECB0F8</Type>
+            </Containers>
+            <Files>
+                <Type>AC045341-B47A-4946-9A50-E6DFA5ECB0F8</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">Kein Label</Label>
+            <Label ID="0" Color="0.9935 0.701213 0.732586">Rot</Label>
+            <Label ID="1" Color="0.995422 0.790951 0.652384">Orange</Label>
+            <Label ID="2" Color="0.997726 0.892729 0.652567">Gelb</Label>
+            <Label ID="3" Color="0.715862 0.948714 0.697688">Grün</Label>
+            <Label ID="4" Color="0.702312 0.888273 0.974258">Blau</Label>
+            <Label ID="5" Color="0.957565 0.766751 0.999619">Lila</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">Kein Status</Status>
+            <Status ID="0">Zu erledigen</Status>
+            <Status ID="1">In Arbeit</Status>
+            <Status ID="2">Erste Fassung</Status>
+            <Status ID="3">Überarbeitete Fassung</Status>
+            <Status ID="4">Endgültiger Entwurf</Status>
+            <Status ID="5">Erledigt</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-10-17 19:25:33 +0200" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" NextResetDate="2024-10-20 02:00:00 +0200" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-10-19 08:12:04 +0200"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2024-10-19 00:00:00 +0200">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
