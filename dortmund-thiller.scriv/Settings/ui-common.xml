@@ -16,6 +16,7 @@
     <Inspector Show="Yes" View="Notes">
         <ShowProjectBookmarks>Yes</ShowProjectBookmarks>
         <ShowSimilarTexts>No</ShowSimilarTexts>
+        <Collapse></Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
     <Split>None</Split>
@@ -53,14 +54,14 @@
         <PageLayout Facing="No">No</PageLayout>
         <TypewriterScrolling>Yes</TypewriterScrolling>
     </FullScreen>
-    <Editors Primary="Editor1">
+    <Editors Primary="Editor1" Active="Editor1">
         <Editor1>
             <View>
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Corkboard</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
-                <SelectionAffects>None</SelectionAffects>
+                <SelectionAffects>Current</SelectionAffects>
                 <Content>
                     <ItemID>0FE5616D-F249-494E-997E-0C3E1E716BBE</ItemID>
                 </Content>
@@ -172,7 +173,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>0,7550</Selection>
+                <Selection>0,7547</Selection>
             </Text>
             <Outliner>
                 <Columns>
