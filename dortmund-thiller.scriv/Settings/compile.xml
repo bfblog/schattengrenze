@@ -2,7 +2,6 @@
 <CompileSettings>
     <ProjectSettings>
         <Content Scope="Included">
-            <CompileGroup Type="Selection"/>
             <Filter State="Off" Exclude="No" Type="Label">
                 <CollectionID>13B592D1-0EFC-4AB7-9C75-64303FB637CC</CollectionID>
                 <Label>-1</Label>
@@ -72,6 +71,6 @@
     <LastUsedFormats>
         <Print>DEFAULT</Print>
         <docx>94F8C909-858E-4555-BFC1-5BA42841F91F</docx>
-        <pdf>94F8C909-858E-4555-BFC1-5BA42841F91F</pdf>
+        <pdf>DEFAULT</pdf>
     </LastUsedFormats>
 </CompileSettings>
