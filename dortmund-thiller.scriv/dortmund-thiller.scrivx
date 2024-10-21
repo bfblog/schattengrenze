@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="6E3FC643-2A51-4807-BD26-881AD0E68BC2" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="MacBook-Air-von-Markus" Author="" Modified="2024-10-20 21:55:56 +0200" ModID="3B59FD86-88AD-4BC8-BEC0-D517B2DF976A">
+<ScrivenerProject Identifier="6E3FC643-2A51-4807-BD26-881AD0E68BC2" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="MacBook-Air-von-Markus" Author="" Modified="2024-10-21 23:21:15 +0200" ModID="5FDE0EEB-4BFF-4847-83B8-E198C97DDF8A">
     <Binder>
         <BinderItem UUID="60B68A64-A824-408F-9A9B-D0B1C7ACB843" Type="DraftFolder" Created="2024-10-10 21:58:11 +0200" Modified="2024-10-10 21:58:11 +0200">
             <Title>Entwurf</Title>
@@ -813,6 +813,471 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="167C694B-A539-4943-8930-13B4F80FDD16" Type="Folder" Created="2024-10-21 19:23:01 +0200" Modified="2024-10-21 19:23:09 +0200">
+                    <Title>Kapitel 24: Die wahre Macht</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="115A54C9-0717-4A4A-A3B7-B3F263DA9B8E" Type="Text" Created="2024-10-21 19:23:21 +0200" Modified="2024-10-21 20:08:55 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1337,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="654FDA63-4C8D-4B7E-9C1B-529081EB654D" Type="Text" Created="2024-10-21 20:11:00 +0200" Modified="2024-10-21 20:11:32 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1174,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6098,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1F916D2C-3EC3-472E-A32C-DAD2D4BB1B2E" Type="Text" Created="2024-10-21 20:12:16 +0200" Modified="2024-10-21 20:14:31 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1313,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>28,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="9B370710-2B3A-4050-A367-D82449EA353E" Type="Folder" Created="2024-10-21 20:14:48 +0200" Modified="2024-10-21 20:14:57 +0200">
+                    <Title>Kapitel 25: Im Fadenkreuz</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="1FDA5D5D-64AA-40E8-9731-6D9F834C83C7" Type="Text" Created="2024-10-21 20:15:04 +0200" Modified="2024-10-21 20:18:16 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1746,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>23,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="537F8BC5-1841-4280-A6BA-CA6AFE9FD88E" Type="Text" Created="2024-10-21 20:18:21 +0200" Modified="2024-10-21 20:20:18 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1703,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>26,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="087D5383-2586-4B80-9860-E9E96FAEB3EC" Type="Text" Created="2024-10-21 20:20:23 +0200" Modified="2024-10-21 20:22:51 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1696,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>17,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="C3640D90-D30A-4544-B337-6E3BEAB7F10F" Type="Folder" Created="2024-10-21 20:23:12 +0200" Modified="2024-10-21 20:23:18 +0200">
+                    <Title>Kapitel 26: Roccos Rache</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="248E74C7-6B08-44CE-A8FB-E9D439EAD6D1" Type="Text" Created="2024-10-21 20:23:25 +0200" Modified="2024-10-21 22:03:25 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1394,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>31,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="29EE97F8-F132-4F60-84B0-2A7AB3AD8D95" Type="Text" Created="2024-10-21 22:03:42 +0200" Modified="2024-10-21 22:05:22 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1412,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>41,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F64FB0D6-5500-4731-B454-BF4F8172D066" Type="Text" Created="2024-10-21 22:05:40 +0200" Modified="2024-10-21 22:10:59 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1387,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>29,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D4F29188-15D9-42FC-ACB9-C49A671DFB08" Type="Text" Created="2024-10-21 22:13:36 +0200" Modified="2024-10-21 22:14:03 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1293,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>41,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="4733331B-0803-432F-94F0-22CB141A2A9C" Type="Folder" Created="2024-10-21 22:14:35 +0200" Modified="2024-10-21 22:14:42 +0200">
+                    <Title>Kapitel 27: Der letzte Kampf</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="15ADD5AF-A8FA-46D1-9D7E-DAC78F2F0827" Type="Text" Created="2024-10-21 22:14:49 +0200" Modified="2024-10-21 22:17:05 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1427,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5893,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E613B15A-1FDA-4F64-BA56-36BB1DC6734C" Type="Text" Created="2024-10-21 22:17:09 +0200" Modified="2024-10-21 22:21:18 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1101,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>37,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DA29AD4D-C951-40AB-919D-04AEBE8D2861" Type="Text" Created="2024-10-21 22:25:44 +0200" Modified="2024-10-21 22:26:27 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1068,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>20,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="8A1D893F-CEF1-4564-B2D9-C4C82E53223C" Type="Folder" Created="2024-10-21 22:26:30 +0200" Modified="2024-10-21 22:26:36 +0200">
+                    <Title>Kapitel 28: Schleier der Wahrheit</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D7CE838F-CF35-45A3-95A1-5E41F377E5A7" Type="Text" Created="2024-10-21 22:26:44 +0200" Modified="2024-10-21 22:29:20 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1162,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="21BB30EF-386F-4F83-8A40-BC96853CC944" Type="Text" Created="2024-10-21 22:29:05 +0200" Modified="2024-10-21 22:31:36 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1000,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>29,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="6435BBCA-07E6-4F65-8E30-3B6BB0D8C43D" Type="Folder" Created="2024-10-21 22:31:55 +0200" Modified="2024-10-21 22:32:00 +0200">
+                    <Title>Kapitel 29: Das Ende einer Ära</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="6BA25E14-F655-47EB-A997-8187FD6A58E2" Type="Text" Created="2024-10-21 22:32:08 +0200" Modified="2024-10-21 22:35:37 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1062,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="795286CE-7DBE-41AB-AA51-85B8899A89DD" Type="Text" Created="2024-10-21 22:38:07 +0200" Modified="2024-10-21 22:38:24 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>952,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4869,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="63F51E33-9C2A-4354-AA2D-10F624348020" Type="Folder" Created="2024-10-21 22:35:57 +0200" Modified="2024-10-21 22:39:04 +0200">
+                    <Title>Kapitel 30: Yasmins Abschied</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="340D2A66-50C6-47B7-B52A-AB153AC9D377" Type="Text" Created="2024-10-21 22:39:08 +0200" Modified="2024-10-21 22:40:54 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1716,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DFD53E51-7869-47E6-96D7-2C5BD421A24C" Type="Text" Created="2024-10-21 22:41:12 +0200" Modified="2024-10-21 22:42:42 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1313,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>25,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CA4BB14C-D72B-4647-98E7-B429785921D4" Type="Text" Created="2024-10-21 22:42:54 +0200" Modified="2024-10-21 22:44:25 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1161,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>27,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="BFC65F7E-0E2C-481C-93F9-A33879047F1D" Type="Folder" Created="2024-10-21 22:44:33 +0200" Modified="2024-10-21 22:44:38 +0200">
+                    <Title>Kapitel 31: Tobias’ Rückkehr</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E2B68BDD-842B-4684-97DC-1EB7F39AF74F" Type="Text" Created="2024-10-21 22:44:57 +0200" Modified="2024-10-21 22:46:35 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1481,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F3942BA1-14E5-43D4-9305-EB8434DD96C2" Type="Text" Created="2024-10-21 22:46:48 +0200" Modified="2024-10-21 22:48:12 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1383,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>10,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E5EA0FA6-32C1-4665-A1F5-8E5152C9043C" Type="Text" Created="2024-10-21 22:48:25 +0200" Modified="2024-10-21 22:50:03 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1353,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>23,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="F5DAEA47-1082-483F-A9D0-5B7F7CC3FFD1" Type="Folder" Created="2024-10-21 22:50:21 +0200" Modified="2024-10-21 22:50:26 +0200">
+                    <Title>Kapitel 32: Kevins Kampf</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E76C43F9-74C5-49F5-BE1B-A936D8DBF4A2" Type="Text" Created="2024-10-21 22:50:31 +0200" Modified="2024-10-21 22:54:00 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1524,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0238C884-8D36-4D92-9713-2C55C96E6161" Type="Text" Created="2024-10-21 22:54:10 +0200" Modified="2024-10-21 22:55:42 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1426,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="29DF3E5F-0E1A-4DE0-8E22-8D5CA51C7108" Type="Text" Created="2024-10-21 22:56:12 +0200" Modified="2024-10-21 22:57:57 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1276,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>30,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="11C57F76-DA2B-4686-AB02-E75F86F64DE3" Type="Folder" Created="2024-10-21 22:58:14 +0200" Modified="2024-10-21 22:58:21 +0200">
+                    <Title>Kapitel 33: Roccos neues Leben</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="3A2626DA-F60F-48A4-B6DA-F0789E723FB5" Type="Text" Created="2024-10-21 22:59:53 +0200" Modified="2024-10-21 23:00:38 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1467,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>28,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5117476D-ACB9-4297-A2F3-A65BDB3AA364" Type="Text" Created="2024-10-21 23:00:27 +0200" Modified="2024-10-21 23:03:37 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1348,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C4645C68-7E2E-4504-855C-E574B8863578" Type="Text" Created="2024-10-21 23:03:50 +0200" Modified="2024-10-21 23:05:17 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1264,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>22,1</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="8927368B-F54A-43B4-8724-64CD90CC4CA6" Type="Folder" Created="2024-10-21 23:05:46 +0200" Modified="2024-10-21 23:05:53 +0200">
+                    <Title>Kapitel 34: Die Schatten bleiben</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="429D7ACE-B383-48C4-B20F-57B4093A222D" Type="Text" Created="2024-10-21 23:06:00 +0200" Modified="2024-10-21 23:08:06 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1275,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>35,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8DABC8CC-A570-410B-A75C-01CBE4D4E016" Type="Text" Created="2024-10-21 23:08:09 +0200" Modified="2024-10-21 23:09:40 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1250,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B0949825-DE2D-4DAC-919C-0BAB91F72591" Type="Text" Created="2024-10-21 23:09:44 +0200" Modified="2024-10-21 23:11:19 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1243,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>39,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="694FEA11-E68B-4801-9E67-317354A80CDA" Type="Text" Created="2024-10-21 23:11:22 +0200" Modified="2024-10-21 23:12:50 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1118,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>34,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="DC0BB79D-1BBE-407E-89C0-EA53DB39BE65" Type="Folder" Created="2024-10-21 23:13:05 +0200" Modified="2024-10-21 23:13:13 +0200">
+                    <Title>Kapitel 35: Epilog: Ein neuer Anfang</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="1FBEECF6-3AB2-454C-AA04-4B913732D8A2" Type="Text" Created="2024-10-21 23:13:18 +0200" Modified="2024-10-21 23:16:49 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>653,3</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>29,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="378DBCDF-6EFB-4881-ABA1-0A4868154D3A" Type="Text" Created="2024-10-21 23:16:44 +0200" Modified="2024-10-21 23:18:04 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1083,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="772FC9F0-CA6D-40CB-8616-8308F35936E5" Type="Text" Created="2024-10-21 23:18:20 +0200" Modified="2024-10-21 23:19:46 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1008,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>28,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DD868A52-3423-4B15-A91C-0EEEE1D68E7A" Type="Text" Created="2024-10-21 23:19:41 +0200" Modified="2024-10-21 23:20:48 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>977,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>34,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="FDC07FAF-4A50-4639-A828-7688472562CF" Type="ResearchFolder" Created="2024-10-10 21:58:11 +0200" Modified="2024-10-10 21:58:11 +0200">
@@ -1080,14 +1545,14 @@
                         <TextSelection>2045,17</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F7F9387C-BEDB-4710-AF55-40C24FFBC59E" Type="Text" Created="2024-10-20 10:16:55 +0200" Modified="2024-10-20 21:32:37 +0200">
+                <BinderItem UUID="F7F9387C-BEDB-4710-AF55-40C24FFBC59E" Type="Text" Created="2024-10-20 10:16:55 +0200" Modified="2024-10-21 22:36:02 +0200">
                     <Title>Szenenplan</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>1260,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>84847,1152</TextSelection>
+                        <TextSelection>133961,977</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -2674,19 +3139,19 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-10-10 21:58:11 +0200" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" NextResetDate="2024-10-21 02:00:00 +0200" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">0</SessionTarget>
-        <PreviousSession Words="70661" Characters="464795" Date="2024-10-20 16:14:22 +0200"/>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" NextResetDate="2024-10-22 02:00:00 +0200" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">0</SessionTarget>
+        <PreviousSession Words="30109" Characters="189065" Date="2024-10-21 19:22:15 +0200"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-10-20 00:00:00 +0200">
-        <DraftWordCount>50151</DraftWordCount>
-        <DraftCharCount>319034</DraftCharCount>
-        <OtherWordCount>20510</OtherWordCount>
-        <OtherCharCount>145761</OtherCharCount>
+    <RecentWritingHistory Date="2024-10-21 00:00:00 +0200">
+        <DraftWordCount>30109</DraftWordCount>
+        <DraftCharCount>189047</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>18</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
     <ExternalSyncMap>
         <SyncItem ID="AA6D6370-0046-4953-839C-F1D51E80D494">64</SyncItem>
-        <SyncItem ID="16772128-4FC4-4C9C-9FF7-101E17FD9D0D">119</SyncItem>
+        <SyncItem ID="7A4DF994-18EC-4788-AD89-B7AC866E5645">61</SyncItem>
         <SyncItem ID="2280F31E-3A81-4B5C-84BC-64ABA777AC15">59</SyncItem>
         <SyncItem ID="6A7B7262-EAF9-4458-88AB-A4EED8F1E4CD">122</SyncItem>
         <SyncItem ID="1746291D-F676-414E-83FC-CEDC16307982">43</SyncItem>
@@ -2841,11 +3306,11 @@
         <SyncItem ID="55A36354-296A-46AF-B9C1-B73B3F499548">99</SyncItem>
         <SyncItem ID="5C4213F2-CA52-4F6B-9FB4-02B3E44654AA">113</SyncItem>
         <SyncItem ID="E452A4FC-B408-4DBD-A141-8DC7FEBD5BB1">106</SyncItem>
+        <SyncItem ID="16772128-4FC4-4C9C-9FF7-101E17FD9D0D">119</SyncItem>
         <SyncItem ID="CCCE19CC-0378-4A1F-8F54-808F1675421E">143</SyncItem>
         <SyncItem ID="B06BD203-F864-432B-A0AF-F91434A2AEF1">56</SyncItem>
-        <SyncItem ID="9BF1D871-0C32-415F-871F-44F2E09370A0">15</SyncItem>
-        <SyncItem ID="7A4DF994-18EC-4788-AD89-B7AC866E5645">61</SyncItem>
-        <SyncItem ID="2D9B7F74-232A-44F9-BCA5-5B85E430BC9F">51</SyncItem>
         <SyncItem ID="A215A4AC-8E10-4BDE-9FC2-0903C03A0F35">95</SyncItem>
+        <SyncItem ID="2D9B7F74-232A-44F9-BCA5-5B85E430BC9F">51</SyncItem>
+        <SyncItem ID="9BF1D871-0C32-415F-871F-44F2E09370A0">15</SyncItem>
     </ExternalSyncMap>
 </ScrivenerProject>

@@ -56,8 +56,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {225, 854}}</string>
-		<string>{{226, 0}, {1214, 854}}</string>
+		<string>{{0, 0}, {175, 854}}</string>
+		<string>{{176, 0}, {1264, 854}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -74,24 +74,28 @@
 		<key>SupportingID</key>
 		<string></string>
 	</dict>
+	<key>editorSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {488, 224}}</string>
+	</array>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {968, 824}}</string>
-		<string>{{969, 0}, {245, 824}}</string>
+		<string>{{0, 0}, {1018, 824}}</string>
+		<string>{{1019, 0}, {245, 824}}</string>
 	</array>
 	<key>mainDocumentEditor.cardWidth</key>
 	<real>375</real>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{-8, 18523.333333333332}, {635.33333333333326, 512}}</string>
+	<string>{{0, 18659.333333333332}, {375.33333333333331, 376}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>440 119 1000 678 0 0 1440 898 </string>
+	<string>280 73 1000 678 0 0 1280 797 </string>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{-1, 0}, {621, 294}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>
 </dict>
