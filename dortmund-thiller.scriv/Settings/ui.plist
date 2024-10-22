@@ -2,6 +2,46 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CollectionSelections</key>
+	<dict>
+		<key>08A5E212-1DBA-4468-AF55-BA692AFDC6FB</key>
+		<array>
+			<string>336A83BF-BDBF-4957-9934-E8F7B4596092</string>
+		</array>
+		<key>13B592D1-0EFC-4AB7-9C75-64303FB637CC</key>
+		<array>
+			<string>98BB9480-9610-41B2-9F8C-0EE4BF8BD4F0</string>
+			<string>C957D9DA-45C5-4CAE-8437-B43EFEE0E20C</string>
+			<string>395FF305-FCBB-47DE-8715-949ABA9C3FD5</string>
+			<string>B4C4AD11-6642-4E32-B708-79A6E09AB5F4</string>
+			<string>F7EBD010-9A78-4442-84EC-C6A3C5AC2B8E</string>
+			<string>1D82B029-D554-4CBF-A4A8-AC4CCBAD45B9</string>
+			<string>D7B10CDF-E380-4667-BF83-3AC0AEDBD5A7</string>
+			<string>4E8FCDD5-CD25-4BEA-8AF3-31A671F8B289</string>
+			<string>7700E915-1D51-490A-ACEA-BC7B645A14D6</string>
+			<string>96338D7F-6FF4-43C2-BF59-07162A084D6B</string>
+			<string>E16008E8-A842-45BE-B38C-9DFDD666E95A</string>
+			<string>DADDF6A4-E770-4BA3-A370-02EFC8163DC4</string>
+			<string>12942052-D619-41BD-B5AF-AC26958122EE</string>
+			<string>7D770F84-6A10-444C-BEE1-D12417C17A3C</string>
+			<string>C49EFA2F-2D50-45FC-8E21-A649FD72C2CE</string>
+			<string>7D2DDD14-A35C-4ABF-A48C-D65C1E2A8BFA</string>
+			<string>340D2A66-50C6-47B7-B52A-AB153AC9D377</string>
+			<string>DFD53E51-7869-47E6-96D7-2C5BD421A24C</string>
+			<string>CA4BB14C-D72B-4647-98E7-B429785921D4</string>
+			<string>E2B68BDD-842B-4684-97DC-1EB7F39AF74F</string>
+			<string>F3942BA1-14E5-43D4-9305-EB8434DD96C2</string>
+			<string>E5EA0FA6-32C1-4665-A1F5-8E5152C9043C</string>
+			<string>E76C43F9-74C5-49F5-BE1B-A936D8DBF4A2</string>
+			<string>0238C884-8D36-4D92-9713-2C55C96E6161</string>
+			<string>29DF3E5F-0E1A-4DE0-8E22-8D5CA51C7108</string>
+			<string>3A2626DA-F60F-48A4-B6DA-F0789E723FB5</string>
+			<string>5117476D-ACB9-4297-A2F3-A65BDB3AA364</string>
+			<string>C4645C68-7E2E-4504-855C-E574B8863578</string>
+			<string>378DBCDF-6EFB-4881-ABA1-0A4868154D3A</string>
+			<string>772FC9F0-CA6D-40CB-8616-8308F35936E5</string>
+		</array>
+	</dict>
 	<key>CompileFolder</key>
 	<string>/Users/markus/Documents/temp</string>
 	<key>NotesScaleFactor</key>
@@ -56,8 +96,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {175, 854}}</string>
-		<string>{{176, 0}, {1264, 854}}</string>
+		<string>{{0, 0}, {188, 854}}</string>
+		<string>{{189, 0}, {1251, 854}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -67,6 +107,39 @@
 			<integer>-1</integer>
 		</dict>
 	</dict>
+	<key>collectionSelectionAutosaveName</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>4</integer>
+		<integer>5</integer>
+		<integer>6</integer>
+		<integer>7</integer>
+		<integer>8</integer>
+		<integer>9</integer>
+		<integer>10</integer>
+		<integer>11</integer>
+		<integer>12</integer>
+		<integer>13</integer>
+		<integer>14</integer>
+		<integer>15</integer>
+		<integer>16</integer>
+		<integer>17</integer>
+		<integer>18</integer>
+		<integer>19</integer>
+		<integer>20</integer>
+		<integer>21</integer>
+		<integer>22</integer>
+		<integer>23</integer>
+		<integer>24</integer>
+		<integer>25</integer>
+		<integer>26</integer>
+		<integer>27</integer>
+		<integer>28</integer>
+		<integer>29</integer>
+	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
 		<key>MainID</key>
@@ -80,22 +153,34 @@
 	</array>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1018, 824}}</string>
-		<string>{{1019, 0}, {245, 824}}</string>
+		<string>{{0, 0}, {1005, 824}}</string>
+		<string>{{1006, 0}, {245, 824}}</string>
 	</array>
 	<key>mainDocumentEditor.cardWidth</key>
 	<real>375</real>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 18659.333333333332}, {375.33333333333331, 376}}</string>
+	<string>{{-25.333333333333332, 13}, {670, 512}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>280 73 1000 678 0 0 1280 797 </string>
+	<string>440 120 1000 678 0 0 1440 898 </string>
+	<key>searchResultsTable</key>
+	<dict>
+		<key>order</key>
+		<array>
+			<string>TITLE</string>
+		</array>
+		<key>widths</key>
+		<dict>
+			<key>TITLE</key>
+			<real>156</real>
+		</dict>
+	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{-1, 0}, {621, 294}}</string>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>
 </dict>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Snapshots Version="1.0">
+    <Snapshot>
+        <Title>Überschreiben der prä-externen Dateisynchronisierung</Title>
+        <Date>2024-10-21 23:46:05 +0200</Date>
+        <StyleIDs>73F5F4D0-BA2C-40E4-A313-A3BEF7CDFE8E,8C3E2C0C-4238-4DF5-B551-877470EB8F88</StyleIDs>
+    </Snapshot>
+    <Snapshot>
+        <Title>Prä-Synchronisieren der externen Dateiversion</Title>
+        <Date>2024-10-22 22:33:07 +0200</Date>
+        <StyleIDs>73F5F4D0-BA2C-40E4-A313-A3BEF7CDFE8E</StyleIDs>
+    </Snapshot>
+</Snapshots>
