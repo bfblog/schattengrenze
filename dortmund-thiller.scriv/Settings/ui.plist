@@ -96,8 +96,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {188, 854}}</string>
-		<string>{{189, 0}, {1251, 854}}</string>
+		<string>{{0, 0}, {175, 854}}</string>
+		<string>{{176, 0}, {1264, 854}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -153,8 +153,8 @@
 	</array>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1005, 824}}</string>
-		<string>{{1006, 0}, {245, 824}}</string>
+		<string>{{0, 0}, {1018, 824}}</string>
+		<string>{{1019, 0}, {245, 824}}</string>
 	</array>
 	<key>mainDocumentEditor.cardWidth</key>
 	<real>375</real>
@@ -176,7 +176,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>156</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
