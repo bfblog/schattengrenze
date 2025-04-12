@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="8D871B93-1D9F-442F-9C6D-868675E8AEB0">
-    <Snapshot Date="2024-10-14 00:17:32 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 7.2 - &quot;Zweifel und Offenheit&quot;
-	•	Strang: Nebenhandlung
-	•	Personen: Yasmin, Lena
-	•	Beschreibung: Yasmin und Lena sprechen über ihre Sorgen bezüglich des Falls und teilen ihre persönlichen Bedenken. Yasmin eröffnet Lena, dass sie in ihrer Vergangenheit ebenfalls mit Bedrohungen konfrontiert war, was sie belastet.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:14 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 7.2 - &quot;Zweifel und Offenheit&quot;
+        <Text>Szene 7.2 - "Zweifel und Offenheit"
 Tobias kauerte hinter einem Stapel von Holzpaletten, seine Augen fest auf das Lagerhaus gerichtet. Das flackernde Licht in einem der Fenster war der einzige Hinweis darauf, dass hier etwas vor sich ging. Yasmin und Rocco waren über Funk zugeschaltet, jede Bewegung des Teams war koordiniert und durchdacht. Sie waren jetzt so nah an der entscheidenden Übergabe wie noch nie.
 „Tobias, ich habe das Gebäude auf der Karte markiert,“ flüsterte Yasmin ins Headset. „Ich habe die Zugänge überprüft. Es gibt nur zwei mögliche Ausgänge: das große Rolltor und einen Notausgang auf der Rückseite.“
 „Verstanden“, murmelte Tobias. Er warf einen schnellen Blick zur Seite und sah Rocco in einiger Entfernung, versteckt hinter einem Container, die Augen wachsam auf das Gebäude gerichtet.
@@ -48,7 +41,7 @@ Mit einem letzten Blick auf die leere Straße machte sich das Team bereit, zurü
     </Snapshot>
     <Snapshot Date="2024-10-19 23:33:08 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 7.2 - &quot;Zweifel und Offenheit&quot;
+        <Text>Szene 7.2 - "Zweifel und Offenheit"
 Tobias kauerte hinter einem Stapel von Holzpaletten, seine Augen fest auf das Lagerhaus gerichtet. Das flackernde Licht in einem der Fenster war der einzige Hinweis darauf, dass hier etwas vor sich ging. Yasmin und Rocco waren über Funk zugeschaltet, jede Bewegung des Teams war koordiniert und durchdacht. Sie waren jetzt so nah an der entscheidenden Übergabe wie noch nie.
 „Tobias, ich habe das Gebäude auf der Karte markiert,“ flüsterte Yasmin ins Headset. „Ich habe die Zugänge überprüft. Es gibt nur zwei mögliche Ausgänge: das große Rolltor und einen Notausgang auf der Rückseite.“
 „Verstanden“, murmelte Tobias. Er warf einen schnellen Blick zur Seite und sah Rocco in einiger Entfernung, versteckt hinter einem Container, die Augen wachsam auf das Gebäude gerichtet.
@@ -84,5 +77,12 @@ Tobias biss die Zähne zusammen, doch er zwang sich zur Ruhe. Auch wenn sie den 
 Ein kurzes Schweigen lag im Funk, dann kam Yasmins entschlossene Antwort. „Verstanden. Ich werde alles durchgehen und sehe, was wir daraus ableiten können.“
 „In Ordnung,“ fügte Rocco hinzu. „Wir machen weiter und sammeln alles, was wir finden können. Diese Spur wird uns zu Merten führen – das weiß ich.“
 Mit einem letzten Blick auf die leere Straße machte sich das Team bereit, zurückzukehren und die Hinweise zu analysieren, die sie mühsam gesammelt hatten. Die Nacht war wieder still, doch in Tobias’ Gedanken drehte sich alles um den nächsten entscheidenden Schritt. Sie waren näher dran als je zuvor – und jeder Schritt würde nun zum Wendepunkt führen.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:32 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 7.2 - "Zweifel und Offenheit"
+	•	Strang: Nebenhandlung
+	•	Personen: Yasmin, Lena
+	•	Beschreibung: Yasmin und Lena sprechen über ihre Sorgen bezüglich des Falls und teilen ihre persönlichen Bedenken. Yasmin eröffnet Lena, dass sie in ihrer Vergangenheit ebenfalls mit Bedrohungen konfrontiert war, was sie belastet.</Text>
     </Snapshot>
 </SnapshotIndexes>

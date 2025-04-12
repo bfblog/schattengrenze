@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="9BF1D871-0C32-415F-871F-44F2E09370A0">
-    <Snapshot Date="2024-10-14 23:07:11 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 4.2 - &quot;Geheime Absprachen&quot;
-	•	Strang: Haupthandlung
-	•	Personen: Kevin, Tobias
-	•	Beschreibung: Kevin entdeckt verdächtige E-Mails und Absprachen, die Hagemann mit zwielichtigen Geschäftspartnern hatte. Tobias und das Team erkennen die Reichweite von Hagemanns kriminellen Netzwerken.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-19 23:33:06 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 4.2 - &quot;Geheime Absprachen&quot;
+        <Text>Szene 4.2 - "Geheime Absprachen"
 Tobias saß in seinem Büro, die Stirn in Falten gelegt, während er die Dokumente auf seinem Schreibtisch betrachtete. Yasmins Erkenntnisse aus dem Meeting hallten noch in ihm nach: die zwielichtige Firma, die anonyme Telefonnummer, die Drohbriefe. Alles wies auf eine Bedrohung hin, die mit jedem neuen Hinweis klarer und gefährlicher wurde.
 Ein leises Klopfen riss ihn aus seinen Gedanken. Yasmin trat mit einem Tablet in der Hand ein, ihre Miene war ernst, beinahe besorgt. Tobias richtete sich auf und deutete auf den Stuhl vor ihm. „Hast du etwas gefunden?“
 „Ja,“ sagte Yasmin leise und schob ihm das Tablet hinüber. „Ich habe die anonyme Nummer genauer untersucht. Sie gehört zu einem Netzwerk von SIM-Karten, die ständig gewechselt werden. Jemand hat sich wirklich bemüht, unauffindbar zu bleiben. Aber es gibt ein Muster: In den letzten Wochen wurden alle Gespräche über eine Basisstation in einem verlassenen Industriegebiet nahe der Stadt weitergeleitet.“
@@ -30,5 +23,12 @@ Tobias’ Finger schlossen sich fester um das Telefon, sein Herz hämmerte in de
 Ein kurzes, leises Lachen erklang, bevor die Verbindung abrupt unterbrochen wurde.
 Ein kühles Schweigen legte sich über den Raum. Yasmin hielt den Atem an, während Tobias starr auf das Handy blickte. Die Bedrohung war real – und näher, als er geahnt hatte.
 „Sie wissen von uns“, sagte er schließlich leise, sein Blick noch entschlossener als zuvor. „Aber das ändert nichts. Ich will jeden Namen, jede Verbindung – egal, wie riskant es wird. Wir müssen schneller sein.“</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 23:07:11 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 4.2 - "Geheime Absprachen"
+	•	Strang: Haupthandlung
+	•	Personen: Kevin, Tobias
+	•	Beschreibung: Kevin entdeckt verdächtige E-Mails und Absprachen, die Hagemann mit zwielichtigen Geschäftspartnern hatte. Tobias und das Team erkennen die Reichweite von Hagemanns kriminellen Netzwerken.</Text>
     </Snapshot>
 </SnapshotIndexes>

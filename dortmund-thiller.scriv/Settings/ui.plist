@@ -6,7 +6,7 @@
 	<dict>
 		<key>08A5E212-1DBA-4468-AF55-BA692AFDC6FB</key>
 		<array>
-			<string>336A83BF-BDBF-4957-9934-E8F7B4596092</string>
+			<string>68285976-DAA1-43C0-B61B-7ED6F9230E70</string>
 		</array>
 		<key>13B592D1-0EFC-4AB7-9C75-64303FB637CC</key>
 		<array>
@@ -93,53 +93,184 @@
 			<key>WindowFrame</key>
 			<string>482 282 475 528 0 0 1440 904 </string>
 		</dict>
+		<key>46DBCBFD-6CFC-4AAA-9F60-CEA90DE65A2A</key>
+		<dict>
+			<key>BinderUUID</key>
+			<string>46DBCBFD-6CFC-4AAA-9F60-CEA90DE65A2A</string>
+			<key>CurrentMetaData</key>
+			<integer>-1</integer>
+			<key>MainPaneWidth</key>
+			<real>475</real>
+			<key>ProjectBookmarksSplitInfo</key>
+			<array>
+				<string>{{0, 0}, {225, 495}}</string>
+				<string>{{235, 0}, {443, 495}}</string>
+			</array>
+			<key>ProjectBookmarksVisible</key>
+			<false/>
+			<key>ShowsFormatBar</key>
+			<true/>
+			<key>ShowsMetaData</key>
+			<false/>
+			<key>SplitInfo</key>
+			<array>
+				<string>{{0, 277}, {475, 167}}</string>
+			</array>
+			<key>TextSettings</key>
+			<dict>
+				<key>hasMultiplePages</key>
+				<false/>
+				<key>isRulerVisible</key>
+				<false/>
+				<key>lineNumberingInterval</key>
+				<integer>1</integer>
+				<key>showsLineNumbers</key>
+				<false/>
+				<key>textFocusMode</key>
+				<integer>0</integer>
+				<key>textScaleFactor</key>
+				<real>1</real>
+				<key>usesFacingPages</key>
+				<false/>
+				<key>usesTypewriterScrolling</key>
+				<false/>
+			</dict>
+			<key>WindowFrame</key>
+			<string>482 282 475 528 0 0 1440 904 </string>
+		</dict>
+		<key>8CEED854-8223-4D2D-ADF5-0EAB5014B74B</key>
+		<dict>
+			<key>BinderUUID</key>
+			<string>8CEED854-8223-4D2D-ADF5-0EAB5014B74B</string>
+			<key>CurrentMetaData</key>
+			<integer>-1</integer>
+			<key>MainPaneWidth</key>
+			<real>475</real>
+			<key>ProjectBookmarksSplitInfo</key>
+			<array>
+				<string>{{0, 0}, {225, 495}}</string>
+				<string>{{235, 0}, {443, 495}}</string>
+			</array>
+			<key>ProjectBookmarksVisible</key>
+			<false/>
+			<key>ShowsFormatBar</key>
+			<true/>
+			<key>ShowsMetaData</key>
+			<false/>
+			<key>SplitInfo</key>
+			<array>
+				<string>{{0, 277}, {475, 167}}</string>
+			</array>
+			<key>TextSettings</key>
+			<dict>
+				<key>hasMultiplePages</key>
+				<false/>
+				<key>isRulerVisible</key>
+				<false/>
+				<key>lineNumberingInterval</key>
+				<integer>1</integer>
+				<key>showsLineNumbers</key>
+				<false/>
+				<key>textFocusMode</key>
+				<integer>0</integer>
+				<key>textScaleFactor</key>
+				<real>1.75</real>
+				<key>usesFacingPages</key>
+				<false/>
+				<key>usesTypewriterScrolling</key>
+				<false/>
+			</dict>
+			<key>WindowFrame</key>
+			<string>482 282 475 528 0 0 1440 904 </string>
+		</dict>
+		<key>933DE521-ED9D-45B2-807C-324FD54B6DA8</key>
+		<dict>
+			<key>BinderUUID</key>
+			<string>933DE521-ED9D-45B2-807C-324FD54B6DA8</string>
+			<key>CurrentMetaData</key>
+			<integer>-1</integer>
+			<key>MainPaneWidth</key>
+			<real>475</real>
+			<key>ProjectBookmarksSplitInfo</key>
+			<array>
+				<string>{{0, 0}, {225, 495}}</string>
+				<string>{{235, 0}, {443, 495}}</string>
+			</array>
+			<key>ProjectBookmarksVisible</key>
+			<false/>
+			<key>ShowsFormatBar</key>
+			<true/>
+			<key>ShowsMetaData</key>
+			<false/>
+			<key>SplitInfo</key>
+			<array>
+				<string>{{0, 277}, {475, 167}}</string>
+			</array>
+			<key>TextSettings</key>
+			<dict>
+				<key>hasMultiplePages</key>
+				<false/>
+				<key>isRulerVisible</key>
+				<false/>
+				<key>lineNumberingInterval</key>
+				<integer>1</integer>
+				<key>showsLineNumbers</key>
+				<false/>
+				<key>textFocusMode</key>
+				<integer>0</integer>
+				<key>textScaleFactor</key>
+				<real>1.75</real>
+				<key>usesFacingPages</key>
+				<false/>
+				<key>usesTypewriterScrolling</key>
+				<false/>
+			</dict>
+			<key>WindowFrame</key>
+			<string>482 282 475 528 0 0 1440 904 </string>
+		</dict>
 	</dict>
+	<key>SuppressBookmarksFolderCheck</key>
+	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {175, 854}}</string>
-		<string>{{176, 0}, {1264, 854}}</string>
+		<string>{{0, 0}, {175, 826}}</string>
+		<string>{{176, 0}, {1264, 826}}</string>
 	</array>
+	<key>bookmarksPreviewTextSettings</key>
+	<dict>
+		<key>hasMultiplePages</key>
+		<false/>
+		<key>isRulerVisible</key>
+		<false/>
+		<key>lineNumberingInterval</key>
+		<integer>1</integer>
+		<key>showsLineNumbers</key>
+		<false/>
+		<key>textFocusMode</key>
+		<integer>0</integer>
+		<key>textScaleFactor</key>
+		<real>1</real>
+		<key>usesFacingPages</key>
+		<false/>
+		<key>usesTypewriterScrolling</key>
+		<false/>
+	</dict>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
 		<key>Project</key>
 		<dict>
+			<key>DocID</key>
+			<string>46DBCBFD-6CFC-4AAA-9F60-CEA90DE65A2A</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
 		<integer>0</integer>
-		<integer>1</integer>
-		<integer>2</integer>
-		<integer>3</integer>
-		<integer>4</integer>
-		<integer>5</integer>
-		<integer>6</integer>
-		<integer>7</integer>
-		<integer>8</integer>
-		<integer>9</integer>
-		<integer>10</integer>
-		<integer>11</integer>
-		<integer>12</integer>
-		<integer>13</integer>
-		<integer>14</integer>
-		<integer>15</integer>
-		<integer>16</integer>
-		<integer>17</integer>
-		<integer>18</integer>
-		<integer>19</integer>
-		<integer>20</integer>
-		<integer>21</integer>
-		<integer>22</integer>
-		<integer>23</integer>
-		<integer>24</integer>
-		<integer>25</integer>
-		<integer>26</integer>
-		<integer>27</integer>
-		<integer>28</integer>
-		<integer>29</integer>
 	</array>
+	<key>collectionsHeight</key>
+	<real>100</real>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
 		<key>MainID</key>
@@ -147,26 +278,53 @@
 		<key>SupportingID</key>
 		<string></string>
 	</dict>
+	<key>collectionsSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {175, 100}}</string>
+		<string>{{0, 101}, {175, 727}}</string>
+	</array>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {488, 224}}</string>
+		<string>{{519, 0}, {517, 824}}</string>
 	</array>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1018, 824}}</string>
-		<string>{{1019, 0}, {245, 824}}</string>
+		<string>{{0, 0}, {1036, 796}}</string>
+		<string>{{1037, 0}, {227, 796}}</string>
 	</array>
+	<key>inspectorWidth</key>
+	<real>245</real>
+	<key>lastDocumentSplitType</key>
+	<integer>1</integer>
 	<key>mainDocumentEditor.cardWidth</key>
-	<real>375</real>
+	<real>450</real>
+	<key>mainDocumentEditor.interCardSpacing</key>
+	<real>30</real>
+	<key>mainDocumentEditor.outlinerColumnsWidths</key>
+	<dict>
+		<key>label</key>
+		<real>85</real>
+		<key>sectionType</key>
+		<real>100</real>
+		<key>status</key>
+		<real>85</real>
+		<key>title</key>
+		<real>275</real>
+	</dict>
+	<key>mainDocumentEditor.qrSplitFrame</key>
+	<array>
+		<string>{{0, 0}, {631.5, 396.5}}</string>
+		<string>{{0, 397.5}, {631.5, 396.5}}</string>
+	</array>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{-25.333333333333332, 13}, {670, 512}}</string>
+	<string>{{0, 10.857142857142856}, {592, 422.85714285714283}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1.5</real>
+		<real>1.75</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>440 120 1000 678 0 0 1440 898 </string>
+	<string>219 220 1000 678 0 0 1440 898 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -179,8 +337,22 @@
 			<real>200</real>
 		</dict>
 	</dict>
+	<key>supportingDocumentEditor.cardWidth</key>
+	<real>300</real>
+	<key>supportingDocumentEditor.interCardSpacing</key>
+	<real>12</real>
+	<key>supportingDocumentEditor.outlinerColumnsWidths</key>
+	<dict>
+		<key>title</key>
+		<real>600</real>
+	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
 	<string>{{-1, 0}, {621, 294}}</string>
+	<key>supportingDocumentEditor.textEditorState</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>2</real>
+	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>
 </dict>

@@ -59,20 +59,27 @@
                 <Type ID="413AA80A-C678-4E0E-882C-8FB98A26ED25">NEW-PAGE-HEADER-WITH-TEXT</Type>
                 <Type ID="D71C7D30-5159-4E5E-BAD4-A0F01B3A3BCD">TEXT-SECTION</Type>
             </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">28B81686-A314-4991-A48B-EFC272C82494</DefaultFrontMatter>
+            </FrontAndBackMatter>
         </Format>
         <Format ID="94F8C909-858E-4555-BFC1-5BA42841F91F">
             <SectionLayouts>
-                <Type ID="413AA80A-C678-4E0E-882C-8FB98A26ED25">NEW-PAGE-HEADER</Type>
-                <Type ID="AE555560-9DEF-4933-BD06-7A8F8635AF94">A5A6AECE-B2DA-4978-BEF4-F6A005963841</Type>
+                <Type ID="413AA80A-C678-4E0E-882C-8FB98A26ED25">CHAPTER-NUMBER-AND-TEXT</Type>
+                <Type ID="082DC64D-CB83-4D04-AD6F-83CDC5C561C8">AS-IS</Type>
                 <Type ID="D71C7D30-5159-4E5E-BAD4-A0F01B3A3BCD">A5A6AECE-B2DA-4978-BEF4-F6A005963841</Type>
+                <Type ID="AE555560-9DEF-4933-BD06-7A8F8635AF94">A5A6AECE-B2DA-4978-BEF4-F6A005963841</Type>
             </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>4831263E-40DE-4418-AE7D-EF28B1CB5F9C</DefaultFrontMatter>
+            </FrontAndBackMatter>
         </Format>
     </FormatSettings>
     <LastUsedFormats>
         <Print>DEFAULT</Print>
         <docx>94F8C909-858E-4555-BFC1-5BA42841F91F</docx>
         <kf8>DEFAULT</kf8>
-        <pdf>DEFAULT</pdf>
+        <pdf>94F8C909-858E-4555-BFC1-5BA42841F91F</pdf>
         <epub3>DEFAULT</epub3>
     </LastUsedFormats>
 </CompileSettings>

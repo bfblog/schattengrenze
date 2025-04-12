@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="336A83BF-BDBF-4957-9934-E8F7B4596092">
+    <Snapshot Date="2024-10-28 22:02:50 +0100">
+        <Title>Prä-Synchronisieren der externen Dateiversion</Title>
+        <Text>Szene 1.2: Das Team wird informiert (überarbeitet)
+Tobias trat in den Besprechungsraum von „RuhrInvestigativ“ und schüttelte unwillkürlich den Regen aus den Haaren. Es war spät, fast Mitternacht, und das unaufhörliche Trommeln des Regens gegen die Fenster schien die Atmosphäre des Raumes zu verdichten. Yasmin saß wie gewohnt am Tisch, ihre Finger flogen über das Tablet, während sie in ihre Recherchen vertieft war. Kevin hatte seinen Laptop aufgeklappt und tippte unablässig, ein Kaugummi wanderte unruhig von einer Backe zur anderen. Lena stand am Fenster, die Arme verschränkt, den Blick in die regennasse Dunkelheit gerichtet, doch Tobias wusste, dass sie sich auf jedes Wort konzentrierte. Rocco, wie immer lässig, lehnte an der Wand, eine unangezündete Zigarette zwischen den Fingern, die er gedankenverloren drehte. Obwohl das Rauchen hier verboten war, sagte niemand etwas.
+„So spät noch am Arbeiten, Tobi?“ Yasmin blickte kurz von ihrem Tablet auf, ein leichtes Grinsen auf den Lippen, doch in ihren Augen flackerte Neugier. „Was brennt so sehr, dass du uns zu dieser Stunde hier versammelst?“
+Tobias warf seine Jacke über einen Stuhl und setzte sich, während die Schwere des Falles spürbar auf seinen Schultern lastete. „Wir haben einen neuen Fall“, begann er mit ruhiger Stimme, aber die Anspannung war nicht zu überhören. „Jörg Hagemann, der Bauunternehmer, wurde vor ein paar Wochen tot in einem stillgelegten Bergwerk gefunden. Die Polizei hält es für einen Unfall. Aber seine Witwe glaubt, dass er ermordet wurde.“
+Kevin hob den Kopf, seine Finger hielten für einen Moment inne. „Der Jörg Hagemann? Der Typ, der das halbe Ruhrgebiet neu bebaut?“
+„Genau der“, bestätigte Tobias. „Seine Frau behauptet, dass er Drohbriefe erhalten hat – Warnungen, dass er sich aus bestimmten Geschäften zurückziehen soll. Die Polizei hat das nicht ernst genommen. Aber jetzt bekommt sie selbst Drohungen.“
+Rocco schnaubte leise und grinste kalt. „Klingt nach einem dieser Fälle, die nur Ärger bringen. Drohbriefe, ein toter Geschäftsmann und ein Bergwerk – das stinkt bis nach Essen.“
+Lena drehte sich langsam vom Fenster weg, ihre Augen ruhten auf Tobias. „Was stand in den Drohungen?“
+„Das ist eines der Dinge, die wir herausfinden müssen“, antwortete Tobias. „Frau Hagemann wird uns Kopien der Briefe und einige E-Mails schicken. Es gibt Hinweise auf rivalisierende Firmen und vielleicht Verbindungen zu Umweltgruppen, die gegen seine Bauprojekte protestiert haben.“
+Yasmin nickte gedankenverloren. „Umweltgruppen, hm? Wenn das stimmt, könnte das die Dynamik des Falls komplett ändern.“
+„Hagemann hatte viele Feinde“, fügte Tobias hinzu. „Und nicht nur im Geschäft. Jeder von ihnen hätte ein Motiv, ihn loszuwerden.“
+„Tja, scheint, als hätte der Typ mehr Dreck am Stecken, als er zugeben wollte“, warf Rocco ein, seine Stimme kühl, aber ernst.
+Die Stille im Raum vertiefte sich, während jeder im Team spürte, dass dieser Fall anders war. Gefährlicher.
+„Was ist der Plan?“ fragte Kevin schließlich, seine Finger erneut über die Tastatur gleitend, bereit, loszulegen.
+„Wir arbeiten mit den Grundlagen“, begann Tobias. „Yasmin, ich brauche, dass du dich in die Umweltaktivistenszene begibst und herausfindest, wer Hagemanns Feinde dort waren. Kevin, du kümmerst dich um die E-Mails. Alles Verdächtige – du weißt, was du tun musst.“
+„Schon dabei“, murmelte Kevin, die Augen fest auf den Bildschirm gerichtet.
+„Lena“, Tobias’ Blick wanderte zu ihr, „du analysierst die Drohungen. Wenn wir verstehen, was die Schreiber motiviert, können wir ihre nächsten Schritte vorhersagen.“
+Lena nickte knapp, ohne ein weiteres Wort zu verlieren, aber ihr scharfer Blick verriet, dass sie schon mit den möglichen Szenarien im Kopf spielte.
+„Und Rocco…“, Tobias hielt kurz inne und musterte seinen Kollegen. „Du wirst deine alten Kontakte anzapfen. Es gibt Gerüchte, dass Hagemann in illegalen Geschäften verwickelt war. Schutzgeldzahlungen. Finde heraus, ob da was dran ist.“
+Rocco stieß einen tiefen Atemzug aus, drückte die Zigarette im Aschenbecher aus, den er mitgebracht hatte, und warf Tobias einen grimmigen Blick zu. „Mach dir keine Sorgen, ich werde es rausfinden.“
+„Gut“, sagte Tobias, während er sich im Stuhl zurücklehnte, sein Blick wanderte zu der Stadtkarte an der Wand, die das Ruhrgebiet zeigte. „Dieser Fall ist brisanter, als es auf den ersten Blick scheint. Die Leute, die Hagemann tot sehen wollten, sind mächtig. Und sie haben viel zu verlieren.“
+„Also, nichts Neues“, murmelte Yasmin, ein kurzes, trockenes Lachen entkam ihr.
+„Vielleicht“, antwortete Tobias ruhig, „aber diesmal sind die Einsätze höher. Seid vorbereitet – wir müssen vorsichtig und diskret vorgehen.“
+Die Worte hallten nach, während die Mitglieder des Teams ihre jeweiligen Rollen akzeptierten. Der Regen prasselte weiterhin gegen die Scheiben, während jeder wusste, dass dies nicht nur ein weiterer Fall war.</Text>
+    </Snapshot>
     <Snapshot Date="2024-10-21 23:46:05 +0200">
         <Title>Überschreiben der prä-externen Dateisynchronisierung</Title>
         <Text>Szene 1.2: Das Team wird informiert
@@ -29,7 +56,91 @@ Der Regen prasselte weiterhin hart gegen die Fenster, und in der Stille des Raum
 „Morgen früh legen wir los“, sagte Tobias schließlich und stand auf. „Haltet euch bereit.“
 </Text>
     </Snapshot>
-    <Snapshot Date="2024-10-14 23:07:14 +0200">
+    <Snapshot Date="2024-11-09 13:08:41 +0100">
+        <Title>Prä-Synchronisieren der externen Dateiversion</Title>
+        <Text>Szene 1.2: Das Team wird informiert (überarbeitet)
+Tobias trat in den Besprechungsraum von „RuhrInvestigativ“ und schüttelte unwillkürlich den Regen aus den Haaren. Es war spät, fast Mitternacht, und das unaufhörliche Trommeln des Regens gegen die Fenster schien die Atmosphäre des Raumes zu verdichten. Yasmin saß wie gewohnt am Tisch, ihre Finger flogen über das Tablet, während sie in ihre Recherchen vertieft war. Kevin hatte seinen Laptop aufgeklappt und tippte unablässig, ein Kaugummi wanderte unruhig von einer Backe zur anderen. Lena stand am Fenster, die Arme verschränkt, den Blick in die regennasse Dunkelheit gerichtet, doch Tobias wusste, dass sie sich auf jedes Wort konzentrierte. Rocco, wie immer lässig, lehnte an der Wand, eine unangezündete Zigarette zwischen den Fingern, die er gedankenverloren drehte. Obwohl das Rauchen hier verboten war, sagte niemand etwas.
+„So spät noch am Arbeiten, Tobi?“ Yasmin blickte kurz von ihrem Tablet auf, ein leichtes Grinsen auf den Lippen, doch in ihren Augen flackerte Neugier. „Was brennt so sehr, dass du uns zu dieser Stunde hier versammelst?“
+Tobias warf seine Jacke über einen Stuhl und setzte sich, während die Schwere des Falles spürbar auf seinen Schultern lastete. „Wir haben einen neuen Fall“, begann er mit ruhiger Stimme, aber die Anspannung war nicht zu überhören. „Jörg Hagemann, der Bauunternehmer, wurde vor ein paar Wochen tot in einem stillgelegten Bergwerk gefunden. Die Polizei hält es für einen Unfall. Aber seine Witwe glaubt, dass er ermordet wurde.“
+Kevin hob den Kopf, seine Finger hielten für einen Moment inne. „Der Jörg Hagemann? Der Typ, der das halbe Ruhrgebiet neu bebaut?“
+„Genau der“, bestätigte Tobias. „Seine Frau behauptet, dass er Drohbriefe erhalten hat – Warnungen, dass er sich aus bestimmten Geschäften zurückziehen soll. Die Polizei hat das nicht ernst genommen. Aber jetzt bekommt sie selbst Drohungen.“
+Rocco schnaubte leise und grinste kalt. „Klingt nach einem dieser Fälle, die nur Ärger bringen. Drohbriefe, ein toter Geschäftsmann und ein Bergwerk – das stinkt bis nach Essen.“
+Lena drehte sich langsam vom Fenster weg, ihre Augen ruhten auf Tobias. „Was stand in den Drohungen?“
+„Das ist eines der Dinge, die wir herausfinden müssen“, antwortete Tobias. „Frau Hagemann wird uns Kopien der Briefe und einige E-Mails schicken. Es gibt Hinweise auf rivalisierende Firmen und vielleicht Verbindungen zu Umweltgruppen, die gegen seine Bauprojekte protestiert haben.“
+Yasmin nickte gedankenverloren. „Umweltgruppen, hm? Wenn das stimmt, könnte das die Dynamik des Falls komplett ändern.“
+„Hagemann hatte viele Feinde“, fügte Tobias hinzu. „Und nicht nur im Geschäft. Jeder von ihnen hätte ein Motiv, ihn loszuwerden.“
+„Tja, scheint, als hätte der Typ mehr Dreck am Stecken, als er zugeben wollte“, warf Rocco ein, seine Stimme kühl, aber ernst.
+Die Stille im Raum vertiefte sich, während jeder im Team spürte, dass dieser Fall anders war. Gefährlicher.
+„Was ist der Plan?“ fragte Kevin schließlich, seine Finger erneut über die Tastatur gleitend, bereit, loszulegen.
+„Wir arbeiten mit den Grundlagen“, begann Tobias. „Yasmin, ich brauche, dass du dich in die Umweltaktivistenszene begibst und herausfindest, wer Hagemanns Feinde dort waren. Kevin, du kümmerst dich um die E-Mails. Alles Verdächtige – du weißt, was du tun musst.“
+„Schon dabei“, murmelte Kevin, die Augen fest auf den Bildschirm gerichtet.
+„Lena“, Tobias’ Blick wanderte zu ihr, „du analysierst die Drohungen. Wenn wir verstehen, was die Schreiber motiviert, können wir ihre nächsten Schritte vorhersagen.“
+Lena nickte knapp, ohne ein weiteres Wort zu verlieren, aber ihr scharfer Blick verriet, dass sie schon mit den möglichen Szenarien im Kopf spielte.
+„Und Rocco…“, Tobias hielt kurz inne und musterte seinen Kollegen. „Du wirst deine alten Kontakte anzapfen. Es gibt Gerüchte, dass Hagemann in illegalen Geschäften verwickelt war. Schutzgeldzahlungen. Finde heraus, ob da was dran ist.“
+Rocco stieß einen tiefen Atemzug aus, drückte die Zigarette im Aschenbecher aus, den er mitgebracht hatte, und warf Tobias einen grimmigen Blick zu. „Mach dir keine Sorgen, ich werde es rausfinden.“
+„Gut“, sagte Tobias, während er sich im Stuhl zurücklehnte, sein Blick wanderte zu der Stadtkarte an der Wand, die das Ruhrgebiet zeigte. „Dieser Fall ist brisanter, als es auf den ersten Blick scheint. Die Leute, die Hagemann tot sehen wollten, sind mächtig. Und sie haben viel zu verlieren.“
+„Also, nichts Neues“, murmelte Yasmin, ein kurzes, trockenes Lachen entkam ihr.
+„Vielleicht“, antwortete Tobias ruhig, „aber diesmal sind die Einsätze höher. Seid vorbereitet – wir müssen vorsichtig und diskret vorgehen.“
+Die Worte hallten nach, während die Mitglieder des Teams ihre jeweiligen Rollen akzeptierten. Der Regen prasselte weiterhin gegen die Scheiben, während jeder wusste, dass dies nicht nur ein weiterer Fall war.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-21 23:45:49 +0200">
+        <Title>Prä-Synchronisieren der externen Dateiversion</Title>
+    </Snapshot>
+    <Snapshot Date="2024-11-09 10:44:23 +0100">
+        <Title>Prä-Synchronisieren der externen Dateiversion</Title>
+        <Text>Szene 1.2: Das Team wird informiert (überarbeitet)
+Tobias trat in den Besprechungsraum von „RuhrInvestigativ“ und schüttelte unwillkürlich den Regen aus den Haaren. Es war spät, fast Mitternacht, und das unaufhörliche Trommeln des Regens gegen die Fenster schien die Atmosphäre des Raumes zu verdichten. Yasmin saß wie gewohnt am Tisch, ihre Finger flogen über das Tablet, während sie in ihre Recherchen vertieft war. Kevin hatte seinen Laptop aufgeklappt und tippte unablässig, ein Kaugummi wanderte unruhig von einer Backe zur anderen. Lena stand am Fenster, die Arme verschränkt, den Blick in die regennasse Dunkelheit gerichtet, doch Tobias wusste, dass sie sich auf jedes Wort konzentrierte. Rocco, wie immer lässig, lehnte an der Wand, eine unangezündete Zigarette zwischen den Fingern, die er gedankenverloren drehte. Obwohl das Rauchen hier verboten war, sagte niemand etwas.
+„So spät noch am Arbeiten, Tobi?“ Yasmin blickte kurz von ihrem Tablet auf, ein leichtes Grinsen auf den Lippen, doch in ihren Augen flackerte Neugier. „Was brennt so sehr, dass du uns zu dieser Stunde hier versammelst?“
+Tobias warf seine Jacke über einen Stuhl und setzte sich, während die Schwere des Falles spürbar auf seinen Schultern lastete. „Wir haben einen neuen Fall“, begann er mit ruhiger Stimme, aber die Anspannung war nicht zu überhören. „Jörg Hagemann, der Bauunternehmer, wurde vor ein paar Wochen tot in einem stillgelegten Bergwerk gefunden. Die Polizei hält es für einen Unfall. Aber seine Witwe glaubt, dass er ermordet wurde.“
+Kevin hob den Kopf, seine Finger hielten für einen Moment inne. „Der Jörg Hagemann? Der Typ, der das halbe Ruhrgebiet neu bebaut?“
+„Genau der“, bestätigte Tobias. „Seine Frau behauptet, dass er Drohbriefe erhalten hat – Warnungen, dass er sich aus bestimmten Geschäften zurückziehen soll. Die Polizei hat das nicht ernst genommen. Aber jetzt bekommt sie selbst Drohungen.“
+Rocco schnaubte leise und grinste kalt. „Klingt nach einem dieser Fälle, die nur Ärger bringen. Drohbriefe, ein toter Geschäftsmann und ein Bergwerk – das stinkt bis nach Essen.“
+Lena drehte sich langsam vom Fenster weg, ihre Augen ruhten auf Tobias. „Was stand in den Drohungen?“
+„Das ist eines der Dinge, die wir herausfinden müssen“, antwortete Tobias. „Frau Hagemann wird uns Kopien der Briefe und einige E-Mails schicken. Es gibt Hinweise auf rivalisierende Firmen und vielleicht Verbindungen zu Umweltgruppen, die gegen seine Bauprojekte protestiert haben.“
+Yasmin nickte gedankenverloren. „Umweltgruppen, hm? Wenn das stimmt, könnte das die Dynamik des Falls komplett ändern.“
+„Hagemann hatte viele Feinde“, fügte Tobias hinzu. „Und nicht nur im Geschäft. Jeder von ihnen hätte ein Motiv, ihn loszuwerden.“
+„Tja, scheint, als hätte der Typ mehr Dreck am Stecken, als er zugeben wollte“, warf Rocco ein, seine Stimme kühl, aber ernst.
+Die Stille im Raum vertiefte sich, während jeder im Team spürte, dass dieser Fall anders war. Gefährlicher.
+„Was ist der Plan?“ fragte Kevin schließlich, seine Finger erneut über die Tastatur gleitend, bereit, loszulegen.
+„Wir arbeiten mit den Grundlagen“, begann Tobias. „Yasmin, ich brauche, dass du dich in die Umweltaktivistenszene begibst und herausfindest, wer Hagemanns Feinde dort waren. Kevin, du kümmerst dich um die E-Mails. Alles Verdächtige – du weißt, was du tun musst.“
+„Schon dabei“, murmelte Kevin, die Augen fest auf den Bildschirm gerichtet.
+„Lena“, Tobias’ Blick wanderte zu ihr, „du analysierst die Drohungen. Wenn wir verstehen, was die Schreiber motiviert, können wir ihre nächsten Schritte vorhersagen.“
+Lena nickte knapp, ohne ein weiteres Wort zu verlieren, aber ihr scharfer Blick verriet, dass sie schon mit den möglichen Szenarien im Kopf spielte.
+„Und Rocco…“, Tobias hielt kurz inne und musterte seinen Kollegen. „Du wirst deine alten Kontakte anzapfen. Es gibt Gerüchte, dass Hagemann in illegalen Geschäften verwickelt war. Schutzgeldzahlungen. Finde heraus, ob da was dran ist.“
+Rocco stieß einen tiefen Atemzug aus, drückte die Zigarette im Aschenbecher aus, den er mitgebracht hatte, und warf Tobias einen grimmigen Blick zu. „Mach dir keine Sorgen, ich werde es rausfinden.“
+„Gut“, sagte Tobias, während er sich im Stuhl zurücklehnte, sein Blick wanderte zu der Stadtkarte an der Wand, die das Ruhrgebiet zeigte. „Dieser Fall ist brisanter, als es auf den ersten Blick scheint. Die Leute, die Hagemann tot sehen wollten, sind mächtig. Und sie haben viel zu verlieren.“
+„Also, nichts Neues“, murmelte Yasmin, ein kurzes, trockenes Lachen entkam ihr.
+„Vielleicht“, antwortete Tobias ruhig, „aber diesmal sind die Einsätze höher. Seid vorbereitet – wir müssen vorsichtig und diskret vorgehen.“
+Die Worte hallten nach, während die Mitglieder des Teams ihre jeweiligen Rollen akzeptierten. Der Regen prasselte weiterhin gegen die Scheiben, während jeder wusste, dass dies nicht nur ein weiterer Fall war.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-28 19:26:12 +0100">
+        <Title>Prä-Synchronisieren der externen Dateiversion</Title>
+        <Text>Szene 1.2: Das Team wird informiert (überarbeitet)
+Tobias trat in den Besprechungsraum von „RuhrInvestigativ“ und schüttelte unwillkürlich den Regen aus den Haaren. Es war spät, fast Mitternacht, und das unaufhörliche Trommeln des Regens gegen die Fenster schien die Atmosphäre des Raumes zu verdichten. Yasmin saß wie gewohnt am Tisch, ihre Finger flogen über das Tablet, während sie in ihre Recherchen vertieft war. Kevin hatte seinen Laptop aufgeklappt und tippte unablässig, ein Kaugummi wanderte unruhig von einer Backe zur anderen. Lena stand am Fenster, die Arme verschränkt, den Blick in die regennasse Dunkelheit gerichtet, doch Tobias wusste, dass sie sich auf jedes Wort konzentrierte. Rocco, wie immer lässig, lehnte an der Wand, eine unangezündete Zigarette zwischen den Fingern, die er gedankenverloren drehte. Obwohl das Rauchen hier verboten war, sagte niemand etwas.
+„So spät noch am Arbeiten, Tobi?“ Yasmin blickte kurz von ihrem Tablet auf, ein leichtes Grinsen auf den Lippen, doch in ihren Augen flackerte Neugier. „Was brennt so sehr, dass du uns zu dieser Stunde hier versammelst?“
+Tobias warf seine Jacke über einen Stuhl und setzte sich, während die Schwere des Falles spürbar auf seinen Schultern lastete. „Wir haben einen neuen Fall“, begann er mit ruhiger Stimme, aber die Anspannung war nicht zu überhören. „Jörg Hagemann, der Bauunternehmer, wurde vor ein paar Wochen tot in einem stillgelegten Bergwerk gefunden. Die Polizei hält es für einen Unfall. Aber seine Witwe glaubt, dass er ermordet wurde.“
+Kevin hob den Kopf, seine Finger hielten für einen Moment inne. „Der Jörg Hagemann? Der Typ, der das halbe Ruhrgebiet neu bebaut?“
+„Genau der“, bestätigte Tobias. „Seine Frau behauptet, dass er Drohbriefe erhalten hat – Warnungen, dass er sich aus bestimmten Geschäften zurückziehen soll. Die Polizei hat das nicht ernst genommen. Aber jetzt bekommt sie selbst Drohungen.“
+Rocco schnaubte leise und grinste kalt. „Klingt nach einem dieser Fälle, die nur Ärger bringen. Drohbriefe, ein toter Geschäftsmann und ein Bergwerk – das stinkt bis nach Essen.“
+Lena drehte sich langsam vom Fenster weg, ihre Augen ruhten auf Tobias. „Was stand in den Drohungen?“
+„Das ist eines der Dinge, die wir herausfinden müssen“, antwortete Tobias. „Frau Hagemann wird uns Kopien der Briefe und einige E-Mails schicken. Es gibt Hinweise auf rivalisierende Firmen und vielleicht Verbindungen zu Umweltgruppen, die gegen seine Bauprojekte protestiert haben.“
+Yasmin nickte gedankenverloren. „Umweltgruppen, hm? Wenn das stimmt, könnte das die Dynamik des Falls komplett ändern.“
+„Hagemann hatte viele Feinde“, fügte Tobias hinzu. „Und nicht nur im Geschäft. Jeder von ihnen hätte ein Motiv, ihn loszuwerden.“
+„Tja, scheint, als hätte der Typ mehr Dreck am Stecken, als er zugeben wollte“, warf Rocco ein, seine Stimme kühl, aber ernst.
+Die Stille im Raum vertiefte sich, während jeder im Team spürte, dass dieser Fall anders war. Gefährlicher.
+„Was ist der Plan?“ fragte Kevin schließlich, seine Finger erneut über die Tastatur gleitend, bereit, loszulegen.
+„Wir arbeiten mit den Grundlagen“, begann Tobias. „Yasmin, ich brauche, dass du dich in die Umweltaktivistenszene begibst und herausfindest, wer Hagemanns Feinde dort waren. Kevin, du kümmerst dich um die E-Mails. Alles Verdächtige – du weißt, was du tun musst.“
+„Schon dabei“, murmelte Kevin, die Augen fest auf den Bildschirm gerichtet.
+„Lena“, Tobias’ Blick wanderte zu ihr, „du analysierst die Drohungen. Wenn wir verstehen, was die Schreiber motiviert, können wir ihre nächsten Schritte vorhersagen.“
+Lena nickte knapp, ohne ein weiteres Wort zu verlieren, aber ihr scharfer Blick verriet, dass sie schon mit den möglichen Szenarien im Kopf spielte.
+„Und Rocco…“, Tobias hielt kurz inne und musterte seinen Kollegen. „Du wirst deine alten Kontakte anzapfen. Es gibt Gerüchte, dass Hagemann in illegalen Geschäften verwickelt war. Schutzgeldzahlungen. Finde heraus, ob da was dran ist.“
+Rocco stieß einen tiefen Atemzug aus, drückte die Zigarette im Aschenbecher aus, den er mitgebracht hatte, und warf Tobias einen grimmigen Blick zu. „Mach dir keine Sorgen, ich werde es rausfinden.“
+„Gut“, sagte Tobias, während er sich im Stuhl zurücklehnte, sein Blick wanderte zu der Stadtkarte an der Wand, die das Ruhrgebiet zeigte. „Dieser Fall ist brisanter, als es auf den ersten Blick scheint. Die Leute, die Hagemann tot sehen wollten, sind mächtig. Und sie haben viel zu verlieren.“
+„Also, nichts Neues“, murmelte Yasmin, ein kurzes, trockenes Lachen entkam ihr.
+„Vielleicht“, antwortete Tobias ruhig, „aber diesmal sind die Einsätze höher. Seid vorbereitet – wir müssen vorsichtig und diskret vorgehen.“
+Die Worte hallten nach, während die Mitglieder des Teams ihre jeweiligen Rollen akzeptierten. Der Regen prasselte weiterhin gegen die Scheiben, während jeder wusste, dass dies nicht nur ein weiterer Fall war.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-15 22:47:20 +0200">
         <Title>Pre-Sync External File Version</Title>
         <Text>Szene 1.2 - "Teamversammlung"
 Tobias stand bereits im Besprechungsraum, als die restlichen Teammitglieder eintrafen. Der Raum war spärlich eingerichtet, nur der alte Holztisch und ein paar Stühle, die schon bessere Tage gesehen hatten. Auf dem Tisch lag eine Mappe mit den wenigen Informationen, die Tobias von Frau Hagemann erhalten hatte. Die Aktenblätter waren sauber geordnet, doch Tobias konnte die Unruhe in sich spüren.
@@ -53,6 +164,35 @@ Ein Moment der Stille breitete sich aus, als alle Anwesenden die Bedeutung des F
 Die anderen nickten, und ein Gefühl von Ernsthaftigkeit breitete sich im Raum aus. Tobias spürte, dass er sein Team auf eine ungewisse Reise führte, bei der Loyalität und Vertrauen auf die Probe gestellt werden könnten. Doch sie hatten sich für diese Arbeit entschieden, und an diesem Punkt gab es kein Zurück mehr.
 „Lasst uns beginnen“, sagte er abschließend, und jeder verließ den Raum mit einer Aufgabe und dem leisen Wissen, dass sie eine Grenze überschritten hatten, die nicht ohne Konsequenzen bleiben würde.
 </Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-26 20:30:50 +0200">
+        <Title>Prä-Synchronisieren der externen Dateiversion</Title>
+        <Text>Szene 1.2: Das Team wird informiert
+Tobias betrat den Besprechungsraum von „RuhrInvestigativ“ und warf einen schnellen Blick auf die Uhr. Es war spät, fast Mitternacht, und der Regen draußen trommelte weiterhin unerbittlich gegen die Fenster. Das Team saß bereits am Tisch, jeder in seiner typischen Pose: Yasmin tippte unruhig auf ihrem Tablet, Kevin hatte die Augen auf den Bildschirm seines Laptops geheftet, die Finger in einem vertrauten, schnellen Rhythmus über die Tasten fliegend. Lena stand wie gewohnt am Fenster, die Arme verschränkt, während sie in die regennasse Dunkelheit hinausblickte. Rocco, der letzte im Bunde, lehnte mit einer Zigarette lässig an der Wand, obwohl das Rauchen im Büro strikt verboten war.
+„Okay, Tobi, was ist so wichtig, dass du uns um diese Uhrzeit zusammenrufst?“ Yasmin sah ihn mit einem Hauch von Neugier und Sorge an.
+Tobias legte seine Jacke über den Stuhl, bevor er sich an den Tisch setzte. Er spürte das Gewicht des Falles, das ihm auf den Schultern lastete, und wusste, dass er es seinem Team so klar wie möglich erklären musste. „Ich habe einen neuen Fall übernommen,“ begann er ruhig, doch die Spannung in seiner Stimme war nicht zu überhören. „Jörg Hagemann, ein bekannter Bauunternehmer, wurde vor ein paar Wochen tot in einem stillgelegten Bergwerk aufgefunden. Die Polizei hat es als Unfall abgehakt, aber seine Witwe ist überzeugt, dass es Mord war.“
+Kevin blickte auf, überrascht. „Der Jörg Hagemann? Der Typ, der das halbe Ruhrgebiet umgekrempelt hat?“
+„Genau der“, bestätigte Tobias mit einem Nicken. „Frau Hagemann glaubt, dass ihr Mann Drohbriefe bekommen hat – Warnungen, dass er sich aus bestimmten Geschäften zurückziehen soll. Die Polizei hat nichts davon hören wollen. Und jetzt bekommt sie selbst Drohungen.“
+Rocco, der bis dahin geschwiegen hatte, stieß ein leises Lachen aus, das schnell in einem grimmigen Blick erstickte. „Drohbotschaften, ein toter Unternehmer, und ein Bergwerk? Das stinkt doch schon von hier bis nach Essen.“
+„Was steht in den Drohungen?“ fragte Lena, ohne sich vom Fenster abzuwenden. Ihre Stimme klang ruhig, aber Tobias spürte das unterdrückte Interesse dahinter.
+„Das ist einer der Punkte, die wir klären müssen. Frau Hagemann wird uns Kopien der Briefe und einige E-Mails von Jörg schicken. Es gibt Hinweise auf rivalisierende Firmen und möglicherweise Verbindungen zu Umweltgruppen, die gegen seine Bauprojekte gekämpft haben.“
+Yasmin, die investigative Journalistin des Teams, hob den Kopf. „Umweltgruppen? Wenn das stimmt, könnte das den Fall in eine ganz neue Richtung lenken.“
+„Hagemann war kein unbeschriebenes Blatt“, fügte Tobias hinzu. „Er hatte viele Feinde – und das nicht nur in der Wirtschaft. Jeder von ihnen hätte ein Motiv gehabt, ihn aus dem Weg zu räumen. Das macht die Sache kompliziert.“
+„Klingt so, als wäre der Mann an mehr als nur ein paar Schmutzigkeiten beteiligt gewesen“, bemerkte Rocco trocken.
+Tobias nickte langsam. „Das ist gut möglich. Was wir wissen, reicht noch nicht aus, aber die Spuren, die wir bisher haben, deuten auf etwas Großes hin. Etwas Gefährliches.“
+Für einen Moment herrschte Stille im Raum. Jeder von ihnen verstand, dass dieser Fall anders war. Sie hatten schon gefährliche Ermittlungen geführt, aber diesmal schien es größer, komplexer – und mit potenziell tödlichen Konsequenzen.
+„Was ist der Plan?“ fragte Kevin schließlich, die Finger ruhten nun auf der Tastatur, als ob er schon bereit wäre, loszulegen.
+Tobias’ Blick wanderte über die Gesichter seines Teams. „Wir fangen mit den Grundlagen an. Yasmin, du wirst in die Szene der Umweltaktivisten eintauchen und sehen, was du über Hagemanns Feinde herausfinden kannst. Kevin, ich will, dass du dich in seine E-Mails einarbeitest und jede verdächtige Kommunikation durchforstest. Alles, was dir komisch vorkommt, könnte relevant sein.“
+„Verstanden.“ Kevins Finger flogen schon wieder über die Tasten, während er zu nicken begann.
+„Lena, du analysierst die Drohungen. Wenn wir die psychologische Seite der Angreifer verstehen, können wir ihre Beweggründe besser nachvollziehen.“
+Lena nickte, ohne sich vom Fenster zu lösen. „Wird gemacht.“
+„Und Rocco...“ Tobias wandte sich an ihn. „Ich brauche dich, um deine alten Kontakte spielen zu lassen. Es gibt Gerüchte, dass Hagemann in illegale Geschäfte verwickelt war – Schutzgeld, vielleicht mehr. Finde heraus, ob da was dran ist.“
+Rocco ließ die Zigarette in einem Aschenbecher verschwinden und funkelte Tobias mit einem ernsten Blick an. „Keine Sorge, ich finde raus, was da läuft.“
+Tobias lehnte sich im Stuhl zurück, die Augen auf die Stadtkarte von Dortmund gerichtet, die an der Wand hing. „Ich will, dass wir diskret vorgehen. Dieser Fall ist brisanter, als er auf den ersten Blick wirkt. Es gibt mächtige Leute, die wollen, dass das Ganze im Dunkeln bleibt. Wir müssen vorbereitet sein – und auf alles gefasst.“
+Yasmin schüttelte leicht den Kopf und grinste trocken. „Wieder so ein Fall, der uns mehr Feinde als Freunde einbringt.“
+„Vielleicht“, antwortete Tobias ruhig, „aber es ist unsere Aufgabe, die Wahrheit ans Licht zu bringen.“
+Die Stille im Raum war diesmal dicker, fast greifbar, als die Bedeutung seiner Worte sickerte. Der Regen prasselte weiterhin gegen die Fenster, ein beständiger Rhythmus in der Dunkelheit, während jeder im Raum wusste, dass der Fall mehr als nur ein weiteres Rätsel zu bieten hatte.
+„Morgen früh geht’s los“, sagte Tobias, als er sich erhob. „Haltet euch bereit.“</Text>
     </Snapshot>
     <Snapshot Date="2024-10-22 22:33:07 +0200">
         <Title>Prä-Synchronisieren der externen Dateiversion</Title>
@@ -82,31 +222,6 @@ Yasmin schüttelte den Kopf und lachte trocken. „Wieder so ein Fall, bei dem w
 Der Regen prasselte weiterhin hart gegen die Fenster, und in der Stille des Raums schien sich ein unsichtbares Band zwischen ihnen zu formen. Sie alle spürten die Bedeutung dieses Falls, die unausgesprochene Gefahr, die in der Luft lag.
 „Morgen früh legen wir los“, sagte Tobias schließlich und stand auf. „Haltet euch bereit.“</Text>
     </Snapshot>
-    <Snapshot Date="2024-10-15 22:47:20 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 1.2 - "Teamversammlung"
-Tobias stand bereits im Besprechungsraum, als die restlichen Teammitglieder eintrafen. Der Raum war spärlich eingerichtet, nur der alte Holztisch und ein paar Stühle, die schon bessere Tage gesehen hatten. Auf dem Tisch lag eine Mappe mit den wenigen Informationen, die Tobias von Frau Hagemann erhalten hatte. Die Aktenblätter waren sauber geordnet, doch Tobias konnte die Unruhe in sich spüren.
-Rocco betrat als Erster den Raum, ein grimmiger Ausdruck auf seinem Gesicht. Er trug seine typische Lederjacke und ließ sich wortlos auf einen der Stühle fallen. „Was hast du da für uns?“, fragte er ohne Vorrede.
-„Geduld, Rocco. Warten wir, bis alle da sind“, erwiderte Tobias und deutete auf die Tür, durch die Yasmin und Lena gerade hereinkamen. Yasmin, mit ihren kurzen, dunkelbraunen Haaren und der Brille, die ihr das Aussehen einer brillanten Analystin verlieh, setzte sich neben Tobias. Sie war immer auf den Punkt, kaum ein Detail entging ihr, was sie zur wertvollen Unterstützung für ihre Ermittlungen machte.
-Lena, die juristische Beraterin des Teams, setzte sich als Letzte an den Tisch. Sie wirkte ruhig und professionell, ihr Blick verriet jedoch, dass sie genau wusste, worauf sie sich eingelassen hatte. Lena war Tobias' Verbindung zur Welt der Gesetze, ein entscheidender Punkt in Ermittlungen, bei denen Legalität und Gerechtigkeit oft aneinandergerieten.
-„Gut, dass ihr alle hier seid“, begann Tobias und legte seine Hände auf die Mappe. „Wir haben einen neuen Fall. Ich habe heute Morgen einen Anruf von Frau Hagemann erhalten. Ihr Mann – Klaus Hagemann, der Bauunternehmer – wurde tot in einem alten Bergwerk aufgefunden. Die Polizei geht von einem Unfall aus, aber Frau Hagemann ist überzeugt, dass da mehr dahintersteckt.“
-„Der Hagemann?“ Rocco runzelte die Stirn. „Der Typ war doch immer in irgendwelche Kontroversen verwickelt. Bauprojekte in Naturschutzgebieten, das ganze Programm. Es gibt bestimmt genug Leute, die ihn loswerden wollten.“
-„Genau das ist das Problem“, antwortete Tobias. „Hagemann hat Drohbriefe erhalten, kurz bevor er starb. Die Polizei hat diese Drohbriefe offenbar nicht ernst genommen, aber die Witwe hat sie mir zugesichert. Sie bringt sie heute Nachmittag vorbei.“
-Yasmin lehnte sich vor, ihr Blick durchdringend. „Was stand in den Drohbriefen?“
-„Das wissen wir noch nicht“, sagte Tobias. „Aber die Tatsache, dass sie existieren, lässt vermuten, dass Hagemann mehr Feinde hatte als uns lieb ist. Wir wissen nur, dass er in den letzten Wochen paranoid wurde und sich bedroht fühlte.“
-Lena nickte nachdenklich. „Solche Drohbriefe könnten als Beweis für Bedrohungen dienen. Aber es wird schwer, etwas Konkretes daraus abzuleiten, wenn wir nicht wissen, wer hinter ihnen steckt.“
-„Deshalb brauchen wir so viele Informationen wie möglich“, sagte Tobias. Er schob die Mappe über den Tisch, und jeder nahm sich eine Kopie der wenigen Notizen, die er bislang machen konnte. „Yasmin, du wirst heute die sozialen Medien und Nachrichtenportale nach allem durchforsten, was mit Hagemanns Firma in Verbindung steht. Vielleicht hat jemand in der Öffentlichkeit angedeutet, was er von ihm hält.“
-„Verstanden“, sagte Yasmin und begann, ihre Notizen in ihren Laptop einzutippen. Ihre Finger flogen förmlich über die Tastatur, ein gewohntes Bild, das Tobias immer wieder beeindruckte.
-„Rocco“, wandte sich Tobias an seinen Kollegen, „ich brauche dich auf der Straße. Rede mit unseren Kontakten und schau, ob jemand Gerüchte über Hagemann gehört hat. Irgendjemand muss mehr wissen. Vielleicht gibt es Leute, die von diesen Drohungen gehört haben.“
-Rocco nickte. „Ich kenne ein paar Leute, die was wissen könnten. Und wenn sie sich zieren, kann ich sie schon zum Reden bringen.“
-Tobias wandte sich schließlich an Lena. „Lena, ich werde wahrscheinlich deine juristische Expertise brauchen, um herauszufinden, was genau in Hagemanns Geschäften vorging. Falls wir bei seiner Firma auf Widerstand stoßen, könnten wir deine Beziehungen zu den Behörden brauchen.“
-„Ich bin dran“, bestätigte Lena, und ein leichtes Lächeln blitzte auf ihrem Gesicht auf. „Hagemann hat immer am Rande der Legalität gearbeitet. Vielleicht gibt es da ja Verbindungen, die uns helfen.“
-Ein Moment der Stille breitete sich aus, als alle Anwesenden die Bedeutung des Falls in sich aufnahmen. Tobias sah in die Runde und bemerkte, dass jeder auf seine Weise entschlossen wirkte – ein ungesagtes Versprechen, Hagemanns Tod aufzuklären.
-„Gut“, sagte Tobias und lehnte sich zurück. „Wir wissen alle, dass das kein gewöhnlicher Fall ist. Hagemann hatte mächtige Feinde, und die Tatsache, dass die Polizei so schnell von einem Unfall ausgeht, gibt mir zu denken. Gehen wir es also sorgfältig an. Wenn jemand von euch auf Probleme stößt, sagt sofort Bescheid. Dieser Fall könnte größer sein, als es auf den ersten Blick erscheint.“
-Die anderen nickten, und ein Gefühl von Ernsthaftigkeit breitete sich im Raum aus. Tobias spürte, dass er sein Team auf eine ungewisse Reise führte, bei der Loyalität und Vertrauen auf die Probe gestellt werden könnten. Doch sie hatten sich für diese Arbeit entschieden, und an diesem Punkt gab es kein Zurück mehr.
-„Lasst uns beginnen“, sagte er abschließend, und jeder verließ den Raum mit einer Aufgabe und dem leisen Wissen, dass sie eine Grenze überschritten hatten, die nicht ohne Konsequenzen bleiben würde.
-</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-19 23:33:08 +0200">
         <Title>Pre-Sync External File Version</Title>
         <Text>Szene 1.2 - "Teamversammlung"
@@ -132,7 +247,56 @@ Die anderen nickten, und ein Gefühl von Ernsthaftigkeit breitete sich im Raum a
 „Lasst uns beginnen“, sagte er abschließend, und jeder verließ den Raum mit einer Aufgabe und dem leisen Wissen, dass sie eine Grenze überschritten hatten, die nicht ohne Konsequenzen bleiben würde.
 </Text>
     </Snapshot>
-    <Snapshot Date="2024-10-21 23:45:49 +0200">
+    <Snapshot Date="2024-10-14 23:07:14 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 1.2 - "Teamversammlung"
+Tobias stand bereits im Besprechungsraum, als die restlichen Teammitglieder eintrafen. Der Raum war spärlich eingerichtet, nur der alte Holztisch und ein paar Stühle, die schon bessere Tage gesehen hatten. Auf dem Tisch lag eine Mappe mit den wenigen Informationen, die Tobias von Frau Hagemann erhalten hatte. Die Aktenblätter waren sauber geordnet, doch Tobias konnte die Unruhe in sich spüren.
+Rocco betrat als Erster den Raum, ein grimmiger Ausdruck auf seinem Gesicht. Er trug seine typische Lederjacke und ließ sich wortlos auf einen der Stühle fallen. „Was hast du da für uns?“, fragte er ohne Vorrede.
+„Geduld, Rocco. Warten wir, bis alle da sind“, erwiderte Tobias und deutete auf die Tür, durch die Yasmin und Lena gerade hereinkamen. Yasmin, mit ihren kurzen, dunkelbraunen Haaren und der Brille, die ihr das Aussehen einer brillanten Analystin verlieh, setzte sich neben Tobias. Sie war immer auf den Punkt, kaum ein Detail entging ihr, was sie zur wertvollen Unterstützung für ihre Ermittlungen machte.
+Lena, die juristische Beraterin des Teams, setzte sich als Letzte an den Tisch. Sie wirkte ruhig und professionell, ihr Blick verriet jedoch, dass sie genau wusste, worauf sie sich eingelassen hatte. Lena war Tobias' Verbindung zur Welt der Gesetze, ein entscheidender Punkt in Ermittlungen, bei denen Legalität und Gerechtigkeit oft aneinandergerieten.
+„Gut, dass ihr alle hier seid“, begann Tobias und legte seine Hände auf die Mappe. „Wir haben einen neuen Fall. Ich habe heute Morgen einen Anruf von Frau Hagemann erhalten. Ihr Mann – Klaus Hagemann, der Bauunternehmer – wurde tot in einem alten Bergwerk aufgefunden. Die Polizei geht von einem Unfall aus, aber Frau Hagemann ist überzeugt, dass da mehr dahintersteckt.“
+„Der Hagemann?“ Rocco runzelte die Stirn. „Der Typ war doch immer in irgendwelche Kontroversen verwickelt. Bauprojekte in Naturschutzgebieten, das ganze Programm. Es gibt bestimmt genug Leute, die ihn loswerden wollten.“
+„Genau das ist das Problem“, antwortete Tobias. „Hagemann hat Drohbriefe erhalten, kurz bevor er starb. Die Polizei hat diese Drohbriefe offenbar nicht ernst genommen, aber die Witwe hat sie mir zugesichert. Sie bringt sie heute Nachmittag vorbei.“
+Yasmin lehnte sich vor, ihr Blick durchdringend. „Was stand in den Drohbriefen?“
+„Das wissen wir noch nicht“, sagte Tobias. „Aber die Tatsache, dass sie existieren, lässt vermuten, dass Hagemann mehr Feinde hatte als uns lieb ist. Wir wissen nur, dass er in den letzten Wochen paranoid wurde und sich bedroht fühlte.“
+Lena nickte nachdenklich. „Solche Drohbriefe könnten als Beweis für Bedrohungen dienen. Aber es wird schwer, etwas Konkretes daraus abzuleiten, wenn wir nicht wissen, wer hinter ihnen steckt.“
+„Deshalb brauchen wir so viele Informationen wie möglich“, sagte Tobias. Er schob die Mappe über den Tisch, und jeder nahm sich eine Kopie der wenigen Notizen, die er bislang machen konnte. „Yasmin, du wirst heute die sozialen Medien und Nachrichtenportale nach allem durchforsten, was mit Hagemanns Firma in Verbindung steht. Vielleicht hat jemand in der Öffentlichkeit angedeutet, was er von ihm hält.“
+„Verstanden“, sagte Yasmin und begann, ihre Notizen in ihren Laptop einzutippen. Ihre Finger flogen förmlich über die Tastatur, ein gewohntes Bild, das Tobias immer wieder beeindruckte.
+„Rocco“, wandte sich Tobias an seinen Kollegen, „ich brauche dich auf der Straße. Rede mit unseren Kontakten und schau, ob jemand Gerüchte über Hagemann gehört hat. Irgendjemand muss mehr wissen. Vielleicht gibt es Leute, die von diesen Drohungen gehört haben.“
+Rocco nickte. „Ich kenne ein paar Leute, die was wissen könnten. Und wenn sie sich zieren, kann ich sie schon zum Reden bringen.“
+Tobias wandte sich schließlich an Lena. „Lena, ich werde wahrscheinlich deine juristische Expertise brauchen, um herauszufinden, was genau in Hagemanns Geschäften vorging. Falls wir bei seiner Firma auf Widerstand stoßen, könnten wir deine Beziehungen zu den Behörden brauchen.“
+„Ich bin dran“, bestätigte Lena, und ein leichtes Lächeln blitzte auf ihrem Gesicht auf. „Hagemann hat immer am Rande der Legalität gearbeitet. Vielleicht gibt es da ja Verbindungen, die uns helfen.“
+Ein Moment der Stille breitete sich aus, als alle Anwesenden die Bedeutung des Falls in sich aufnahmen. Tobias sah in die Runde und bemerkte, dass jeder auf seine Weise entschlossen wirkte – ein ungesagtes Versprechen, Hagemanns Tod aufzuklären.
+„Gut“, sagte Tobias und lehnte sich zurück. „Wir wissen alle, dass das kein gewöhnlicher Fall ist. Hagemann hatte mächtige Feinde, und die Tatsache, dass die Polizei so schnell von einem Unfall ausgeht, gibt mir zu denken. Gehen wir es also sorgfältig an. Wenn jemand von euch auf Probleme stößt, sagt sofort Bescheid. Dieser Fall könnte größer sein, als es auf den ersten Blick erscheint.“
+Die anderen nickten, und ein Gefühl von Ernsthaftigkeit breitete sich im Raum aus. Tobias spürte, dass er sein Team auf eine ungewisse Reise führte, bei der Loyalität und Vertrauen auf die Probe gestellt werden könnten. Doch sie hatten sich für diese Arbeit entschieden, und an diesem Punkt gab es kein Zurück mehr.
+„Lasst uns beginnen“, sagte er abschließend, und jeder verließ den Raum mit einer Aufgabe und dem leisen Wissen, dass sie eine Grenze überschritten hatten, die nicht ohne Konsequenzen bleiben würde.
+</Text>
+    </Snapshot>
+    <Snapshot Date="2024-11-07 23:22:54 +0100">
         <Title>Prä-Synchronisieren der externen Dateiversion</Title>
+        <Text>Szene 1.2: Das Team wird informiert (überarbeitet)
+Tobias trat in den Besprechungsraum von „RuhrInvestigativ“ und schüttelte unwillkürlich den Regen aus den Haaren. Es war spät, fast Mitternacht, und das unaufhörliche Trommeln des Regens gegen die Fenster schien die Atmosphäre des Raumes zu verdichten. Yasmin saß wie gewohnt am Tisch, ihre Finger flogen über das Tablet, während sie in ihre Recherchen vertieft war. Kevin hatte seinen Laptop aufgeklappt und tippte unablässig, ein Kaugummi wanderte unruhig von einer Backe zur anderen. Lena stand am Fenster, die Arme verschränkt, den Blick in die regennasse Dunkelheit gerichtet, doch Tobias wusste, dass sie sich auf jedes Wort konzentrierte. Rocco, wie immer lässig, lehnte an der Wand, eine unangezündete Zigarette zwischen den Fingern, die er gedankenverloren drehte. Obwohl das Rauchen hier verboten war, sagte niemand etwas.
+„So spät noch am Arbeiten, Tobi?“ Yasmin blickte kurz von ihrem Tablet auf, ein leichtes Grinsen auf den Lippen, doch in ihren Augen flackerte Neugier. „Was brennt so sehr, dass du uns zu dieser Stunde hier versammelst?“
+Tobias warf seine Jacke über einen Stuhl und setzte sich, während die Schwere des Falles spürbar auf seinen Schultern lastete. „Wir haben einen neuen Fall“, begann er mit ruhiger Stimme, aber die Anspannung war nicht zu überhören. „Jörg Hagemann, der Bauunternehmer, wurde vor ein paar Wochen tot in einem stillgelegten Bergwerk gefunden. Die Polizei hält es für einen Unfall. Aber seine Witwe glaubt, dass er ermordet wurde.“
+Kevin hob den Kopf, seine Finger hielten für einen Moment inne. „Der Jörg Hagemann? Der Typ, der das halbe Ruhrgebiet neu bebaut?“
+„Genau der“, bestätigte Tobias. „Seine Frau behauptet, dass er Drohbriefe erhalten hat – Warnungen, dass er sich aus bestimmten Geschäften zurückziehen soll. Die Polizei hat das nicht ernst genommen. Aber jetzt bekommt sie selbst Drohungen.“
+Rocco schnaubte leise und grinste kalt. „Klingt nach einem dieser Fälle, die nur Ärger bringen. Drohbriefe, ein toter Geschäftsmann und ein Bergwerk – das stinkt bis nach Essen.“
+Lena drehte sich langsam vom Fenster weg, ihre Augen ruhten auf Tobias. „Was stand in den Drohungen?“
+„Das ist eines der Dinge, die wir herausfinden müssen“, antwortete Tobias. „Frau Hagemann wird uns Kopien der Briefe und einige E-Mails schicken. Es gibt Hinweise auf rivalisierende Firmen und vielleicht Verbindungen zu Umweltgruppen, die gegen seine Bauprojekte protestiert haben.“
+Yasmin nickte gedankenverloren. „Umweltgruppen, hm? Wenn das stimmt, könnte das die Dynamik des Falls komplett ändern.“
+„Hagemann hatte viele Feinde“, fügte Tobias hinzu. „Und nicht nur im Geschäft. Jeder von ihnen hätte ein Motiv, ihn loszuwerden.“
+„Tja, scheint, als hätte der Typ mehr Dreck am Stecken, als er zugeben wollte“, warf Rocco ein, seine Stimme kühl, aber ernst.
+Die Stille im Raum vertiefte sich, während jeder im Team spürte, dass dieser Fall anders war. Gefährlicher.
+„Was ist der Plan?“ fragte Kevin schließlich, seine Finger erneut über die Tastatur gleitend, bereit, loszulegen.
+„Wir arbeiten mit den Grundlagen“, begann Tobias. „Yasmin, ich brauche, dass du dich in die Umweltaktivistenszene begibst und herausfindest, wer Hagemanns Feinde dort waren. Kevin, du kümmerst dich um die E-Mails. Alles Verdächtige – du weißt, was du tun musst.“
+„Schon dabei“, murmelte Kevin, die Augen fest auf den Bildschirm gerichtet.
+„Lena“, Tobias’ Blick wanderte zu ihr, „du analysierst die Drohungen. Wenn wir verstehen, was die Schreiber motiviert, können wir ihre nächsten Schritte vorhersagen.“
+Lena nickte knapp, ohne ein weiteres Wort zu verlieren, aber ihr scharfer Blick verriet, dass sie schon mit den möglichen Szenarien im Kopf spielte.
+„Und Rocco…“, Tobias hielt kurz inne und musterte seinen Kollegen. „Du wirst deine alten Kontakte anzapfen. Es gibt Gerüchte, dass Hagemann in illegalen Geschäften verwickelt war. Schutzgeldzahlungen. Finde heraus, ob da was dran ist.“
+Rocco stieß einen tiefen Atemzug aus, drückte die Zigarette im Aschenbecher aus, den er mitgebracht hatte, und warf Tobias einen grimmigen Blick zu. „Mach dir keine Sorgen, ich werde es rausfinden.“
+„Gut“, sagte Tobias, während er sich im Stuhl zurücklehnte, sein Blick wanderte zu der Stadtkarte an der Wand, die das Ruhrgebiet zeigte. „Dieser Fall ist brisanter, als es auf den ersten Blick scheint. Die Leute, die Hagemann tot sehen wollten, sind mächtig. Und sie haben viel zu verlieren.“
+„Also, nichts Neues“, murmelte Yasmin, ein kurzes, trockenes Lachen entkam ihr.
+„Vielleicht“, antwortete Tobias ruhig, „aber diesmal sind die Einsätze höher. Seid vorbereitet – wir müssen vorsichtig und diskret vorgehen.“
+Die Worte hallten nach, während die Mitglieder des Teams ihre jeweiligen Rollen akzeptierten. Der Regen prasselte weiterhin gegen die Scheiben, während jeder wusste, dass dies nicht nur ein weiterer Fall war.</Text>
     </Snapshot>
 </SnapshotIndexes>

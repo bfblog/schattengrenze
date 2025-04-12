@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="6B2E2012-9198-4FA8-9B28-80EE0DAEF12A">
-    <Snapshot Date="2024-10-14 00:17:35 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 15.3 - &quot;Emotionale Belastung&quot;
-	•	Strang: Nebenhandlung
-	•	Personen: Rocco, Yasmin
-	•	Beschreibung: Rocco spricht mit Yasmin über die zunehmenden Belastungen des Falls. Er äußert Zweifel an seiner Rolle im Team und reflektiert über seine Vergangenheit und seine Entscheidung, das Team zu unterstützen.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:21 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 15.3 - &quot;Emotionale Belastung&quot;
+        <Text>Szene 15.3 - "Emotionale Belastung"
 Die Stille des Morgens lag schwer auf dem kleinen Apartment. Yasmin saß auf einem Stuhl am Fenster, ihre Augen müde, aber wachsam. Rocco ging unruhig im Raum auf und ab, während Tobias am Tisch saß, den Laptop vor sich und die neuesten Nachrichten auf dem Bildschirm verfolgend. Die Berichte über NEXUS hatten die Welt erschüttert, doch sie wussten, dass die Reaktionen von Viktor Lassalle und seinen Verbündeten noch bevorstanden.
 „Das Medienecho ist enorm,“ sagte Yasmin leise, ohne den Blick vom Fenster abzuwenden. „Die Öffentlichkeit kennt jetzt die Wahrheit – oder zumindest genug, um weitere Fragen zu stellen.“
 „Und genau das ist, was Lassalle verhindern wollte,“ fügte Rocco hinzu, seine Stimme angespannt. „Aber er wird das nicht auf sich beruhen lassen. Ein Mann wie er… der wird kämpfen, bis zum Schluss.“
@@ -39,7 +32,7 @@ Das Team bereitete sich vor, entschlossen, den Kampf bis zum Ende zu führen. Di
     </Snapshot>
     <Snapshot Date="2024-10-19 23:33:14 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 15.3 - &quot;Emotionale Belastung&quot;
+        <Text>Szene 15.3 - "Emotionale Belastung"
 Die Stille des Morgens lag schwer auf dem kleinen Apartment. Yasmin saß auf einem Stuhl am Fenster, ihre Augen müde, aber wachsam. Rocco ging unruhig im Raum auf und ab, während Tobias am Tisch saß, den Laptop vor sich und die neuesten Nachrichten auf dem Bildschirm verfolgend. Die Berichte über NEXUS hatten die Welt erschüttert, doch sie wussten, dass die Reaktionen von Viktor Lassalle und seinen Verbündeten noch bevorstanden.
 „Das Medienecho ist enorm,“ sagte Yasmin leise, ohne den Blick vom Fenster abzuwenden. „Die Öffentlichkeit kennt jetzt die Wahrheit – oder zumindest genug, um weitere Fragen zu stellen.“
 „Und genau das ist, was Lassalle verhindern wollte,“ fügte Rocco hinzu, seine Stimme angespannt. „Aber er wird das nicht auf sich beruhen lassen. Ein Mann wie er… der wird kämpfen, bis zum Schluss.“
@@ -66,5 +59,12 @@ Yasmin holte tief Luft und setzte sich an ihren Laptop. „Ich werde unsere Sich
 Tobias sah sein Team an, die Entschlossenheit in seinen Augen brennend. Sie wussten, dass die kommende Zeit gefährlich sein würde, doch die Wahrheit war zu wertvoll, um sie aufzugeben.
 „Das ist unsere letzte Etappe,“ sagte er leise, aber voller Überzeugung. „Wir haben keine Rückendeckung, keinen Schutz. Nur uns selbst und die Wahrheit. Und das wird genügen.“
 Das Team bereitete sich vor, entschlossen, den Kampf bis zum Ende zu führen. Die letzte Drohung von Lassalle hallte in ihren Gedanken nach, doch sie wussten, dass sie ihm nun nichts mehr schuldeten – und dass NEXUS zu Fall gebracht werden würde, koste es, was es wolle.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:35 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 15.3 - "Emotionale Belastung"
+	•	Strang: Nebenhandlung
+	•	Personen: Rocco, Yasmin
+	•	Beschreibung: Rocco spricht mit Yasmin über die zunehmenden Belastungen des Falls. Er äußert Zweifel an seiner Rolle im Team und reflektiert über seine Vergangenheit und seine Entscheidung, das Team zu unterstützen.</Text>
     </Snapshot>
 </SnapshotIndexes>

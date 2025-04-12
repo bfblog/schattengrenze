@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="EDEF4EC6-2CFA-4713-A0F4-3D3B310992CD">
-    <Snapshot Date="2024-10-14 00:17:35 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 15.2 - &quot;Unkooperative Haltung&quot;
-	•	Strang: Haupthandlung
-	•	Personen: Tobias, Rocco, Verdächtiger
-	•	Beschreibung: Der Verdächtige verweigert jegliche Kooperation und stellt die Ermittler vor weitere Schwierigkeiten. Tobias und Rocco sind frustriert über den Mangel an Fortschritt und diskutieren die nächsten Schritte.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:21 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 15.2 - &quot;Unkooperative Haltung&quot;
+        <Text>Szene 15.2 - "Unkooperative Haltung"
 Die Uhr tickte leise, während das Team in den Bildschirmen versank. Vor ihnen lagen Wochen harter Ermittlungsarbeit, dokumentiert und geordnet, mit den letzten Beweisen aus der Alpha Bank – die entscheidenden Puzzlestücke, die NEXUS und seine Unterstützer unbestreitbar ins Rampenlicht rücken würden.
 „Jonas ist bereit,“ sagte Tobias und sah zu Yasmin und Rocco. „Er hat die Dokumente, die er braucht, und verspricht, sie sofort zu veröffentlichen. Die Informationen gehen an mehrere internationale Zeitungen und Nachrichtendienste, damit niemand es vertuschen kann.“
 „Das ist der Moment, auf den wir hingearbeitet haben,“ flüsterte Yasmin. „Mit diesen Beweisen kann selbst Weber nichts mehr abstreiten. NEXUS wird unweigerlich ins öffentliche Bewusstsein geraten.“
@@ -37,7 +30,7 @@ Sie fuhren weiter in die Nacht hinein, während die Straßen hinter ihnen leer u
     </Snapshot>
     <Snapshot Date="2024-10-19 23:33:14 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 15.2 - &quot;Unkooperative Haltung&quot;
+        <Text>Szene 15.2 - "Unkooperative Haltung"
 Die Uhr tickte leise, während das Team in den Bildschirmen versank. Vor ihnen lagen Wochen harter Ermittlungsarbeit, dokumentiert und geordnet, mit den letzten Beweisen aus der Alpha Bank – die entscheidenden Puzzlestücke, die NEXUS und seine Unterstützer unbestreitbar ins Rampenlicht rücken würden.
 „Jonas ist bereit,“ sagte Tobias und sah zu Yasmin und Rocco. „Er hat die Dokumente, die er braucht, und verspricht, sie sofort zu veröffentlichen. Die Informationen gehen an mehrere internationale Zeitungen und Nachrichtendienste, damit niemand es vertuschen kann.“
 „Das ist der Moment, auf den wir hingearbeitet haben,“ flüsterte Yasmin. „Mit diesen Beweisen kann selbst Weber nichts mehr abstreiten. NEXUS wird unweigerlich ins öffentliche Bewusstsein geraten.“
@@ -62,5 +55,12 @@ Während sie sich entfernten, meldeten sich die Nachrichtenportale erneut. Beric
 Doch Tobias wusste, dass die Gefahr noch lange nicht vorbei war. „Das war erst der Anfang,“ sagte er leise. „Weber und Lassalle werden kämpfen, um das Netzwerk zu retten. Sie werden alles tun, um uns zum Schweigen zu bringen.“
 „Dann sollten wir bereit sein,“ antwortete Yasmin entschlossen und richtete sich auf. „Wir wissen, wie NEXUS funktioniert, und jetzt weiß es die Welt auch. Wir haben ihnen die Macht genommen, sich hinter Geheimnissen zu verstecken.“
 Sie fuhren weiter in die Nacht hinein, während die Straßen hinter ihnen leer und still blieben. Die Welt würde nun erfahren, was NEXUS wirklich war – und das Team war bereit, den letzten Kampf anzutreten, um sicherzustellen, dass die Gerechtigkeit siegte.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:35 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 15.2 - "Unkooperative Haltung"
+	•	Strang: Haupthandlung
+	•	Personen: Tobias, Rocco, Verdächtiger
+	•	Beschreibung: Der Verdächtige verweigert jegliche Kooperation und stellt die Ermittler vor weitere Schwierigkeiten. Tobias und Rocco sind frustriert über den Mangel an Fortschritt und diskutieren die nächsten Schritte.</Text>
     </Snapshot>
 </SnapshotIndexes>

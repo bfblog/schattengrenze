@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="2280F31E-3A81-4B5C-84BC-64ABA777AC15">
-    <Snapshot Date="2024-10-14 00:17:35 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 14.3 - &quot;Erhöhte Sicherheitsmaßnahmen&quot;
-	•	Strang: Haupthandlung
-	•	Personen: Tobias, Rocco, Yasmin
-	•	Beschreibung: Tobias trifft sich mit Rocco und Yasmin, um erweiterte Sicherheitsmaßnahmen zu planen. Die Bedrohung bringt das Team dazu, strategischer und vorsichtiger vorzugehen, um sich selbst und ihre Familien zu schützen.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:20 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 14.3 - &quot;Erhöhte Sicherheitsmaßnahmen&quot;
+        <Text>Szene 14.3 - "Erhöhte Sicherheitsmaßnahmen"
 Der Raum war von Dämmerlicht erfüllt, das durch die Bildschirme schien und die ernsten Gesichter des Teams beleuchtete. Sie hatten die Daten zu NEXUS und Henrik Weber mehrfach analysiert, jede Spur verfolgt und alle Verbindungen überprüft. Doch nun gab es keine weiteren Anhaltspunkte mehr – der nächste Schritt würde ein direkter Angriff auf das Netzwerk sein.
 Tobias stand vor einer Karte der Stadt, auf der verschiedene Orte und Verbindungen mit roten Linien markiert waren. Er sah zu Yasmin und Rocco, die am Tisch saßen und die letzten Notizen durchgingen.
 „Wir wissen, dass Henrik Weber NEXUS absichert und politische Kontakte hat, die ihm Schutz bieten,“ begann Tobias mit fester Stimme. „Wenn wir also öffentlich gegen ihn vorgehen, müssen wir Beweise haben, die seine Unterstützung im Netzwerk zweifelsfrei belegen.“
@@ -46,7 +39,7 @@ Das Team war sich bewusst, dass der Plan erfolgreich war, aber die wahren Konseq
     </Snapshot>
     <Snapshot Date="2024-10-19 23:33:14 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 14.3 - &quot;Erhöhte Sicherheitsmaßnahmen&quot;
+        <Text>Szene 14.3 - "Erhöhte Sicherheitsmaßnahmen"
 Der Raum war von Dämmerlicht erfüllt, das durch die Bildschirme schien und die ernsten Gesichter des Teams beleuchtete. Sie hatten die Daten zu NEXUS und Henrik Weber mehrfach analysiert, jede Spur verfolgt und alle Verbindungen überprüft. Doch nun gab es keine weiteren Anhaltspunkte mehr – der nächste Schritt würde ein direkter Angriff auf das Netzwerk sein.
 Tobias stand vor einer Karte der Stadt, auf der verschiedene Orte und Verbindungen mit roten Linien markiert waren. Er sah zu Yasmin und Rocco, die am Tisch saßen und die letzten Notizen durchgingen.
 „Wir wissen, dass Henrik Weber NEXUS absichert und politische Kontakte hat, die ihm Schutz bieten,“ begann Tobias mit fester Stimme. „Wenn wir also öffentlich gegen ihn vorgehen, müssen wir Beweise haben, die seine Unterstützung im Netzwerk zweifelsfrei belegen.“
@@ -80,5 +73,12 @@ Das Gespräch endete abrupt, und das Team tauschte ernste Blicke aus. Sie wusste
 „Wir haben den ersten Stein ins Rollen gebracht,“ sagte Yasmin leise. „Aber jetzt wird es gefährlich.“
 Tobias nickte. „Wir müssen bereit sein für alles, was jetzt kommt. Doch wir wissen, dass wir NEXUS auf den Fersen sind – und das ist unsere beste Waffe.“
 Das Team war sich bewusst, dass der Plan erfolgreich war, aber die wahren Konsequenzen würden noch kommen. Sie standen nun direkt im Kampf gegen eine mächtige Organisation, die sie aus dem Weg räumen wollte. Doch das Wissen, wie nah sie der Wahrheit waren, hielt ihre Entschlossenheit aufrecht.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:35 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 14.3 - "Erhöhte Sicherheitsmaßnahmen"
+	•	Strang: Haupthandlung
+	•	Personen: Tobias, Rocco, Yasmin
+	•	Beschreibung: Tobias trifft sich mit Rocco und Yasmin, um erweiterte Sicherheitsmaßnahmen zu planen. Die Bedrohung bringt das Team dazu, strategischer und vorsichtiger vorzugehen, um sich selbst und ihre Familien zu schützen.</Text>
     </Snapshot>
 </SnapshotIndexes>

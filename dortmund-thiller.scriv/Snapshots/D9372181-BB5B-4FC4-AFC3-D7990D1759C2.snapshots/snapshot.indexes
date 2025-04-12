@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="D9372181-BB5B-4FC4-AFC3-D7990D1759C2">
-    <Snapshot Date="2024-10-14 00:17:32 +0200">
-        <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 8.1 - &quot;Verdächtiger im Visier&quot;
-	•	Strang: Haupthandlung
-	•	Personen: Tobias, Rocco
-	•	Beschreibung: Tobias und Rocco beschatten einen Hauptverdächtigen, der regelmäßig mit Hagemann in Kontakt stand. Die Beobachtungen liefern Hinweise auf dubiose Aktivitäten.</Text>
-    </Snapshot>
     <Snapshot Date="2024-10-14 23:07:15 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 8.1 - &quot;Verdächtiger im Visier&quot;
+        <Text>Szene 8.1 - "Verdächtiger im Visier"
 Tobias stand geduckt hinter einem rostigen Container und spähte über den Rand, die Augen auf das alte Industriegebäude gerichtet. Der Parkplatz vor dem Gebäude war größtenteils leer, doch das schwache Licht einer Laterne beleuchtete einen schwarzen Lieferwagen, der am Rand des Geländes parkte. In der Dunkelheit wirkten die Schatten und Silhouetten wie ein Labyrinth, und der dichte Nebel verschleierte die Sicht. Perfekte Bedingungen für eine geheime Übergabe.
 „Ich habe die Position eingenommen,“ flüsterte Yasmin ins Headset. Sie befand sich ein paar Meter entfernt auf einer kleinen Anhöhe und beobachtete das Gelände durch ein Nachtsichtgerät.
 „Zielperson ist eingetroffen,“ meldete Rocco leise. Er saß in einem Auto auf der anderen Seite des Gebäudes und beobachtete das Szenario aus einem anderen Winkel. „Es sind zwei Männer, beide steigen aus dem Lieferwagen aus.“
@@ -50,7 +43,7 @@ Die Nacht war ruhig, doch das Team war hellwach. Sie wussten, dass sie am Rand e
     </Snapshot>
     <Snapshot Date="2024-10-19 23:33:09 +0200">
         <Title>Pre-Sync External File Version</Title>
-        <Text>Szene 8.1 - &quot;Verdächtiger im Visier&quot;
+        <Text>Szene 8.1 - "Verdächtiger im Visier"
 Tobias stand geduckt hinter einem rostigen Container und spähte über den Rand, die Augen auf das alte Industriegebäude gerichtet. Der Parkplatz vor dem Gebäude war größtenteils leer, doch das schwache Licht einer Laterne beleuchtete einen schwarzen Lieferwagen, der am Rand des Geländes parkte. In der Dunkelheit wirkten die Schatten und Silhouetten wie ein Labyrinth, und der dichte Nebel verschleierte die Sicht. Perfekte Bedingungen für eine geheime Übergabe.
 „Ich habe die Position eingenommen,“ flüsterte Yasmin ins Headset. Sie befand sich ein paar Meter entfernt auf einer kleinen Anhöhe und beobachtete das Gelände durch ein Nachtsichtgerät.
 „Zielperson ist eingetroffen,“ meldete Rocco leise. Er saß in einem Auto auf der anderen Seite des Gebäudes und beobachtete das Szenario aus einem anderen Winkel. „Es sind zwei Männer, beide steigen aus dem Lieferwagen aus.“
@@ -88,5 +81,12 @@ Der Lieferwagen und der SUV fuhren weiter Richtung Stadtrand und bogen schließl
 Ein Moment der Stille legte sich über das Team, während sie die Bedeutung der Entdeckung begriffen. Die Operation erreichte einen kritischen Punkt – und mit jedem Schritt kamen sie der Wahrheit näher.
 „Gut gemacht,“ flüsterte Tobias ins Mikrofon. „Jetzt beobachten wir und warten auf den richtigen Moment, um zuzuschlagen.“
 Die Nacht war ruhig, doch das Team war hellwach. Sie wussten, dass sie am Rand einer entscheidenden Entdeckung standen. Der nächste Schritt könnte Merten und sein gesamtes Netzwerk ans Licht bringen – und das Team war bereit, jede Gefahr in Kauf zu nehmen, um es zu vollenden.</Text>
+    </Snapshot>
+    <Snapshot Date="2024-10-14 00:17:32 +0200">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Szene 8.1 - "Verdächtiger im Visier"
+	•	Strang: Haupthandlung
+	•	Personen: Tobias, Rocco
+	•	Beschreibung: Tobias und Rocco beschatten einen Hauptverdächtigen, der regelmäßig mit Hagemann in Kontakt stand. Die Beobachtungen liefern Hinweise auf dubiose Aktivitäten.</Text>
     </Snapshot>
 </SnapshotIndexes>
