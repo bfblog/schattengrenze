@@ -1,0 +1,3 @@
+Jörg Hagemann (Opfer)
+	•	Rolle: Unternehmer und ehemaliger Chef der Firma, die das Bauprojekt auf dem alten Zechengelände leiten sollte. Hagemann wird tot in einem verlassenen Schacht aufgefunden.
+	•	Hintergrund: Hagemann galt als ambivalente Figur – geschäftlich erfolgreich, aber moralisch fragwürdig. Er hatte zahlreiche Gegner, von Umweltschützern über Konkurrenten bis hin zu ehemaligen Zechenarbeitern.
