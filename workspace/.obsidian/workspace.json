@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "5fa564160948aa00",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f8d0ae79d9114a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb4ee0f00de206a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unbenannt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unbenannt"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feca126eda17ccea",
+    "type": "split",
+    "children": [
+      {
+        "id": "54f6fa0db865bbf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1df2e6ce4adcd3fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "b15a3716f71d54ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "ac9220d91862eed1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54b72289544c2b10",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a1379a475d9f99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb5e9b51de4d990",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Charaktere/Hauptfiguren/Unbenannt.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Unbenannt"
+            }
+          },
+          {
+            "id": "0f22aa445c3fb1db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Charaktere/Hauptfiguren/Unbenannt.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Unbenannt öffnen"
+            }
+          },
+          {
+            "id": "0af0eac2d0e2ec6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3722e917774ca6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Charaktere/Hauptfiguren/Unbenannt.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Unbenannt"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "eb4ee0f00de206a8",
+  "lastOpenFiles": [
+    "Subplots/Roccos_Loyalitaet.md",
+    "Unbenannt.md",
+    "Unbenannt.canvas",
+    "Charaktere.md",
+    "Charaktere/Hauptfiguren/Unbenannt.canvas",
+    "Charaktere/Hauptfiguren/Kevin Hoffmann.md",
+    "Charaktere/Hauptfiguren/Yasmin Kaya.md",
+    "Charaktere/Nebenfiguren/Ebru Demir.md",
+    "Charaktere/Hauptfiguren/Lena Richter.md"
+  ]
+}

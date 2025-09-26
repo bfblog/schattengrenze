@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ec547e8f09f241b8","x":-275,"y":-282,"width":445,"height":222,"type":"file","file":"Charaktere/Hauptfiguren/Kevin Hoffmann.md"},
+		{"id":"fd8ebd377828e5e0","x":-230,"y":320,"width":400,"height":267,"type":"file","file":"Charaktere/Hauptfiguren/Lena Richter.md"}
+	],
+	"edges":[
+		{"id":"9c7ca754b85f1430","fromNode":"fd8ebd377828e5e0","fromSide":"top","toNode":"ec547e8f09f241b8","toSide":"bottom"}
+	]
+}
