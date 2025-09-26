@@ -15,11 +15,7 @@
 
 ### 📁 **Plot/**
 - **Phoenix_Rising.md**: Hauptplot-Struktur und -entwicklung
-- **README.md**: Anleitung für Plot-Entwicklung
-- **Akte/**: Dramaturgische Struktur (Drei-Akt-Struktur)
-- **Kapitel/**: Kapitelstruktur und -planung
-- **Szenen/**: Konkrete Szenenentwicklung
-- **Subplots/**: Nebenhandlungsstränge und Charakterentwicklungen
+- **Subplot_*.md**: Nebenhandlungsstränge (z.B. `Subplot_Roccos_Loyalitaet.md`)
 
 ### 📁 **Exposee/**
 - **README.md**: Projektzusammenfassung und Hauptexposé

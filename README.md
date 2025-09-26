@@ -89,14 +89,67 @@
 #### Beispiel-Session:
 ```
 Nutzer: "Ich möchte meinen Plot weiterentwickeln"
-Koordinator: "Für Plot-Entwicklung empfehle ich dir den instruktion_plot_assistant.md. 
+Koordinator: "Für Plot-Entwicklung empfehle ich dir den instruktion_plot_assistant.md.
 Er kann dir bei der Drei-Akt-Struktur, Wendepunkten und Charakterentwicklung helfen."
 ```
+
+### Praktische Anwendungsbeispiele
+
+#### **Beispiel 1: Charakterentwicklung**
+```
+Nutzer: "Ich brauche Hilfe bei der Entwicklung meines Protagonisten Tobias Schrader"
+Koordinator: "Für Charakterentwicklung empfehle ich dir instruktion_character_entwicklung.md.
+Er hilft dir bei Grundlagen, Charakterzügen, Vorgeschichte und Beziehungen."
+```
+
+#### **Beispiel 2: Plotstruktur**
+```
+Nutzer: "Mein Plot ist zu unstrukturiert, ich brauche Hilfe bei der 3-Akt-Struktur"
+Koordinator: "Für Plotstruktur empfehle ich dir instruktion_plotstruktur.md.
+Er entwickelt mit dir Wendepunkte, Spannungskurven und logische Handlungsführung."
+```
+
+#### **Beispiel 3: Szenenplanung**
+```
+Nutzer: "Ich habe viele Ideen, aber weiß nicht, wie ich sie in Szenen umsetze"
+Koordinator: "Für Szenenplanung empfehle ich dir instruktion_szenenplanung.md.
+Er hilft dir bei Szenenlisten, Details, Perspektive und Spannung."
+```
+
+#### **Beispiel 4: Status-Tracking**
+```
+Nutzer: "Wo stehe ich gerade im Projekt?"
+Koordinator: "Prüfe status/Status_Projekt.md für den Gesamtfortschritt,
+status/Status_Charaktere.md für Charakterentwicklung und
+status/Status_Assistenten.md für detaillierte Assistenten-Status."
+```
+
+### Workflow-Beispiele
+
+#### **Vom Exposé zum fertigen Buch:**
+1. **Exposé entwickeln** → `instruktion_exposee_erstellen.md`
+2. **Charaktere entwickeln** → `instruktion_character_entwicklung.md`
+3. **Recherche** → `instruktion_recherche.md`
+4. **Plotstruktur** → `instruktion_plotstruktur.md`
+5. **Szenenplanung** → `instruktion_szenenplanung.md`
+6. **Dramaturgie** → `instruktion_dramaturgie.md`
+7. **Kapitelstruktur** → `instruktion_chapter_assistant.md`
+8. **Rohfassung schreiben** → `instruktion_rohfassung_schreiben.md`
+9. **Überarbeitung** → `instruktion_ueberarbeitung.md`
+10. **Testleser** → `instruktion_testleser.md`
+11. **Veröffentlichung** → `instruktion_veroeffentlichung.md`
+
+#### **Iterationsschleifen-Beispiele:**
+- **Exposé ↔ Charaktere**: Wenn Charaktere nicht zum Exposé passen
+- **Charaktere ↔ Plot**: Wenn Plot nicht zu Charakteren passt
+- **Plot ↔ Szenen**: Wenn Szenen nicht zum Plot passen
+- **Schreiben ↔ Überarbeitung**: Wenn Rohfassung grundlegende Probleme hat
+- **Testleser ↔ Überarbeitung**: Wenn Testleser-Feedback Änderungen erfordert
 
 ### Verfügbare Spezial-Assistenten
 
 #### Phase 1: Konzeption & Planung
-- **instruktion_plot_assistant.md**: Plot-Struktur, Wendepunkte, Charakterentwicklung
+- **instruktion_plotstruktur.md**: Plot-Struktur, Wendepunkte, Spannungsbögen
 - **instruktion_character_assistant.md**: Charakterprofile, Beziehungen, Entwicklungsbögen
 - **instruktion_worldbuilding_assistant.md**: Setting, Atmosphäre, Hintergrund-Informationen
 - **instruktion_research_assistant.md**: Fachwissen, Authentizität, Hintergrund-Recherche
